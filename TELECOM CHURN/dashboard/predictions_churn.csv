@@ -1,0 +1,1410 @@
+CustomerID,Contract,TechSupport,InternetService,PaymentMethod,MonthlyCharges,Tenure,Risk_Score,Cluster
+7590-VHVEG,Month-to-month,No,DSL,Electronic check,29.85,1,0.016,Segment Safe
+5575-GNVDE,One year,No,DSL,Mailed check,56.95,34,0.911,Segment Critique
+3668-QPYBK,Month-to-month,No,DSL,Mailed check,53.85,2,0.141,Segment Sous Surveillance
+7795-CFOCW,One year,Yes,DSL,Bank transfer (automatic),42.3,45,0.589,Segment Instable
+9237-HQITU,Month-to-month,No,Fiber optic,Electronic check,70.7,2,0.013,Segment Safe
+9305-CDSKC,Month-to-month,No,Fiber optic,Electronic check,99.65,8,0.779,Segment Critique
+1452-KIOVK,Month-to-month,No,Fiber optic,Credit card (automatic),89.1,22,0.692,Segment Critique
+6713-OKOMC,Month-to-month,No,DSL,Mailed check,29.75,10,0.221,Segment Sous Surveillance
+7892-POOKP,Month-to-month,Yes,Fiber optic,Electronic check,104.8,28,0.021,Segment Safe
+6388-TABGU,One year,No,DSL,Bank transfer (automatic),56.15,62,0.598,Segment Instable
+9763-GRSKD,Month-to-month,No,DSL,Mailed check,49.95,13,0.645,Segment Instable
+7469-LKBCI,Two year,No internet service,No,Credit card (automatic),18.95,16,0.02,Segment Safe
+8091-TTVAX,One year,No,Fiber optic,Credit card (automatic),100.35,58,0.408,Segment Instable
+0280-XJGEX,Month-to-month,No,Fiber optic,Bank transfer (automatic),103.7,49,0.863,Segment Critique
+5129-JLPIS,Month-to-month,Yes,Fiber optic,Electronic check,105.5,25,0.263,Segment Sous Surveillance
+3655-SNQYZ,Two year,Yes,Fiber optic,Credit card (automatic),113.25,69,0.034,Segment Safe
+8191-XWSZG,One year,No internet service,No,Mailed check,20.65,52,0.053,Segment Safe
+9959-WOFKT,Two year,No,Fiber optic,Bank transfer (automatic),106.7,71,0.802,Segment Critique
+4190-MFLUW,Month-to-month,Yes,DSL,Credit card (automatic),55.2,10,0.515,Segment Instable
+4183-MYFRB,Month-to-month,No,Fiber optic,Electronic check,90.05,21,0.172,Segment Sous Surveillance
+8779-QRDMV,Month-to-month,No,DSL,Electronic check,39.65,1,0.862,Segment Critique
+1680-VDCWW,One year,No internet service,No,Bank transfer (automatic),19.8,12,0.512,Segment Instable
+1066-JKSGK,Month-to-month,No internet service,No,Mailed check,20.15,1,0.07,Segment Safe
+3638-WEABW,Two year,Yes,DSL,Credit card (automatic),59.9,58,0.07,Segment Safe
+6322-HRPFA,Month-to-month,Yes,DSL,Credit card (automatic),59.6,49,0.395,Segment Instable
+6865-JZNKO,Month-to-month,No,DSL,Bank transfer (automatic),55.3,30,0.428,Segment Instable
+6467-CHFZW,Month-to-month,No,Fiber optic,Electronic check,99.35,47,0.68,Segment Instable
+8665-UTDHZ,Month-to-month,No,DSL,Electronic check,30.2,1,0.852,Segment Critique
+5248-YGIJN,Two year,Yes,DSL,Credit card (automatic),90.25,72,0.067,Segment Safe
+8773-HHUOZ,Month-to-month,No,DSL,Mailed check,64.7,17,0.884,Segment Critique
+3841-NFECX,Two year,Yes,Fiber optic,Credit card (automatic),96.35,71,0.67,Segment Instable
+4929-XIHVW,Month-to-month,No,Fiber optic,Credit card (automatic),95.5,2,0.712,Segment Critique
+6827-IEAUQ,One year,Yes,DSL,Mailed check,66.15,27,0.031,Segment Safe
+7310-EGVHZ,Month-to-month,No internet service,No,Bank transfer (automatic),20.2,1,0.024,Segment Safe
+3413-BMNZE,Month-to-month,No,DSL,Bank transfer (automatic),45.25,1,0.884,Segment Critique
+6234-RAAPL,Two year,Yes,Fiber optic,Bank transfer (automatic),99.9,72,0.43,Segment Instable
+6047-YHPVI,Month-to-month,No,Fiber optic,Electronic check,69.7,5,0.659,Segment Instable
+6572-ADKRS,Month-to-month,No,Fiber optic,Credit card (automatic),74.8,46,0.02,Segment Safe
+5380-WJKOV,Month-to-month,No,Fiber optic,Electronic check,106.35,34,0.938,Segment Critique
+8168-UQWWF,Month-to-month,No,Fiber optic,Bank transfer (automatic),97.85,11,0.328,Segment Sous Surveillance
+8865-TNMNX,One year,No,DSL,Mailed check,49.55,10,0.028,Segment Safe
+9489-DEDVP,Two year,No,DSL,Credit card (automatic),69.2,70,0.916,Segment Critique
+9867-JCZSP,One year,No internet service,No,Mailed check,20.75,17,0.586,Segment Instable
+4671-VJLCL,Two year,Yes,DSL,Credit card (automatic),79.85,63,0.356,Segment Sous Surveillance
+4080-IIARD,Month-to-month,Yes,DSL,Electronic check,76.2,13,0.19,Segment Sous Surveillance
+3714-NTNFO,Month-to-month,No,Fiber optic,Electronic check,84.5,49,0.892,Segment Critique
+5948-UJZLF,Month-to-month,No,DSL,Mailed check,49.25,2,0.862,Segment Critique
+7760-OYPDY,Month-to-month,No,Fiber optic,Electronic check,80.65,2,0.557,Segment Instable
+7639-LIAYI,Two year,Yes,DSL,Credit card (automatic),79.75,52,0.032,Segment Safe
+2954-PIBKO,Two year,Yes,DSL,Credit card (automatic),64.15,69,0.503,Segment Instable
+8012-SOUDQ,Month-to-month,No,Fiber optic,Electronic check,90.25,43,0.023,Segment Safe
+9420-LOJKX,Month-to-month,No,Fiber optic,Credit card (automatic),99.1,15,0.935,Segment Critique
+6575-SUVOI,Month-to-month,Yes,DSL,Credit card (automatic),69.5,25,0.327,Segment Sous Surveillance
+7495-OOKFY,Month-to-month,No,Fiber optic,Credit card (automatic),80.65,8,0.576,Segment Instable
+4667-QONEA,One year,Yes,DSL,Credit card (automatic),74.85,60,0.589,Segment Instable
+1658-BYGOY,Month-to-month,No,Fiber optic,Electronic check,95.45,18,0.791,Segment Critique
+8769-KKTPH,One year,No,Fiber optic,Credit card (automatic),99.65,63,0.216,Segment Sous Surveillance
+5067-XJQFU,One year,Yes,Fiber optic,Electronic check,108.45,66,0.12,Segment Sous Surveillance
+3957-SQXML,Two year,No internet service,No,Credit card (automatic),24.95,34,0.112,Segment Sous Surveillance
+5954-BDFSG,Two year,Yes,Fiber optic,Credit card (automatic),107.5,72,0.046,Segment Safe
+0434-CSFON,Month-to-month,No,Fiber optic,Electronic check,100.5,47,0.011,Segment Safe
+1215-FIGMP,Month-to-month,No,Fiber optic,Bank transfer (automatic),89.9,60,0.107,Segment Sous Surveillance
+0526-SXDJP,Two year,No,DSL,Bank transfer (automatic),42.1,72,0.356,Segment Sous Surveillance
+0557-ASKVU,One year,Yes,DSL,Credit card (automatic),54.4,18,0.369,Segment Sous Surveillance
+5698-BQJOH,Month-to-month,No,Fiber optic,Electronic check,94.4,9,0.548,Segment Instable
+5122-CYFXA,Month-to-month,Yes,DSL,Electronic check,75.3,3,0.737,Segment Critique
+8627-ZYGSZ,One year,No,Fiber optic,Electronic check,78.9,47,0.49,Segment Instable
+3410-YOQBQ,Two year,Yes,DSL,Mailed check,79.2,31,0.398,Segment Instable
+3170-NMYVV,Two year,No internet service,No,Bank transfer (automatic),20.15,50,0.322,Segment Sous Surveillance
+7410-OIEDU,Month-to-month,No,Fiber optic,Mailed check,79.85,10,0.929,Segment Critique
+2273-QCKXA,Month-to-month,Yes,DSL,Mailed check,49.05,1,0.008,Segment Safe
+0731-EBJQB,One year,No internet service,No,Electronic check,20.4,52,0.051,Segment Safe
+1891-QRQSA,Two year,Yes,Fiber optic,Bank transfer (automatic),111.6,64,0.737,Segment Critique
+8028-PNXHQ,Two year,No internet service,No,Bank transfer (automatic),24.25,62,0.295,Segment Sous Surveillance
+5630-AHZIL,Month-to-month,Yes,DSL,Bank transfer (automatic),64.5,3,0.152,Segment Sous Surveillance
+2673-CXQEU,One year,No,Fiber optic,Electronic check,110.5,56,0.075,Segment Safe
+6416-JNVRK,One year,No,DSL,Credit card (automatic),55.65,46,0.187,Segment Sous Surveillance
+5590-ZSKRV,Month-to-month,No,DSL,Mailed check,54.65,8,0.75,Segment Critique
+0191-ZHSKZ,Month-to-month,No,DSL,Electronic check,74.75,30,0.302,Segment Sous Surveillance
+3887-PBQAO,One year,No internet service,No,Credit card (automatic),25.9,45,0.022,Segment Safe
+5919-TMRGD,Month-to-month,No,Fiber optic,Electronic check,79.35,1,0.072,Segment Safe
+8108-UXRQN,Month-to-month,No,DSL,Electronic check,50.55,11,0.015,Segment Safe
+9191-MYQKX,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.15,7,0.406,Segment Instable
+9919-YLNNG,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),103.8,42,0.923,Segment Critique
+0318-ZOPWS,Two year,No internet service,No,Bank transfer (automatic),20.15,49,0.091,Segment Sous Surveillance
+4445-ZJNMU,Month-to-month,No,Fiber optic,Credit card (automatic),99.3,9,0.558,Segment Instable
+4808-YNLEU,One year,No,DSL,Bank transfer (automatic),62.15,35,0.814,Segment Critique
+1862-QRWPE,Two year,No internet service,No,Bank transfer (automatic),20.65,48,0.836,Segment Critique
+2796-NNUFI,Two year,No internet service,No,Mailed check,19.95,46,0.627,Segment Instable
+3016-KSVCP,Month-to-month,No,DSL,Mailed check,33.75,29,0.181,Segment Sous Surveillance
+4767-HZZHQ,Month-to-month,No,Fiber optic,Bank transfer (automatic),82.05,30,0.706,Segment Critique
+2424-WVHPL,Month-to-month,Yes,Fiber optic,Electronic check,74.7,1,0.551,Segment Instable
+7233-PAHHL,Two year,Yes,DSL,Mailed check,84.0,66,0.042,Segment Safe
+6067-NGCEU,Month-to-month,No,Fiber optic,Credit card (automatic),111.05,65,0.737,Segment Critique
+9848-JQJTX,Two year,No,Fiber optic,Bank transfer (automatic),100.9,72,0.724,Segment Critique
+8637-XJIVR,Month-to-month,No,Fiber optic,Electronic check,78.95,12,0.038,Segment Safe
+9803-FTJCG,One year,Yes,DSL,Credit card (automatic),66.85,71,0.744,Segment Critique
+0278-YXOOG,Month-to-month,No internet service,No,Mailed check,21.05,5,0.03,Segment Safe
+3212-KXOCR,Two year,No internet service,No,Bank transfer (automatic),21.0,52,0.908,Segment Critique
+4598-XLKNJ,Month-to-month,No,Fiber optic,Electronic check,98.5,25,0.286,Segment Sous Surveillance
+6380-ARCEH,Month-to-month,No internet service,No,Mailed check,20.2,1,0.858,Segment Critique
+3679-XASPY,Month-to-month,No internet service,No,Electronic check,19.45,1,0.808,Segment Critique
+7123-WQUHX,One year,Yes,Fiber optic,Bank transfer (automatic),95.0,38,0.733,Segment Critique
+5386-THSLQ,One year,No,DSL,Bank transfer (automatic),45.55,66,0.448,Segment Instable
+3192-NQECA,Two year,Yes,Fiber optic,Bank transfer (automatic),110.0,68,0.479,Segment Instable
+6180-YBIQI,Month-to-month,No,DSL,Mailed check,24.3,5,0.01,Segment Safe
+6728-DKUCO,One year,No,Fiber optic,Electronic check,104.15,72,0.493,Segment Instable
+9750-BOOHV,One year,No,DSL,Mailed check,30.15,32,0.083,Segment Safe
+8597-CWYHH,One year,No,Fiber optic,Mailed check,94.35,43,0.212,Segment Sous Surveillance
+2848-YXSMW,Two year,No internet service,No,Credit card (automatic),19.4,72,0.155,Segment Sous Surveillance
+0486-HECZI,Month-to-month,No,Fiber optic,Electronic check,96.75,55,0.077,Segment Safe
+4549-ZDQYY,One year,Yes,DSL,Credit card (automatic),57.95,52,0.837,Segment Critique
+5712-AHQNN,Month-to-month,No,Fiber optic,Electronic check,91.65,43,0.334,Segment Sous Surveillance
+4846-WHAFZ,Month-to-month,No,Fiber optic,Electronic check,76.5,37,0.729,Segment Critique
+5256-SKJGO,Two year,Yes,DSL,Electronic check,54.6,64,0.835,Segment Critique
+3071-VBYPO,Month-to-month,No,Fiber optic,Electronic check,89.85,3,0.064,Segment Safe
+9560-BBZXK,Two year,No,DSL,Bank transfer (automatic),31.05,36,0.735,Segment Critique
+5299-RULOA,Month-to-month,No,Fiber optic,Electronic check,100.25,10,0.673,Segment Instable
+8402-OOOHJ,Two year,No internet service,No,Mailed check,20.65,41,0.118,Segment Sous Surveillance
+9445-ZUEQE,Month-to-month,Yes,Fiber optic,Credit card (automatic),85.2,27,0.048,Segment Safe
+1091-SOZGA,One year,No,Fiber optic,Credit card (automatic),99.8,56,0.039,Segment Safe
+2928-HLDBA,Month-to-month,No internet service,No,Mailed check,20.7,6,0.925,Segment Critique
+0404-SWRVG,Month-to-month,No,Fiber optic,Electronic check,74.4,3,0.043,Segment Safe
+6497-TILVL,Month-to-month,No,DSL,Mailed check,50.7,7,0.101,Segment Sous Surveillance
+7219-TLZHO,Month-to-month,No internet service,No,Mailed check,20.85,4,0.919,Segment Critique
+4622-YNKIJ,Two year,Yes,Fiber optic,Electronic check,88.95,33,0.033,Segment Safe
+4412-YLTKF,Month-to-month,No,Fiber optic,Electronic check,78.05,27,0.627,Segment Instable
+6734-PSBAW,Two year,No internet service,No,Bank transfer (automatic),23.55,72,0.339,Segment Sous Surveillance
+3930-ZGWVE,Month-to-month,No internet service,No,Mailed check,19.75,1,0.777,Segment Critique
+2639-UGMAZ,One year,No,DSL,Electronic check,56.45,71,0.217,Segment Sous Surveillance
+2876-GZYZC,Month-to-month,No,Fiber optic,Electronic check,85.95,13,0.595,Segment Instable
+6207-WIOLX,Month-to-month,No,DSL,Credit card (automatic),58.6,25,0.573,Segment Instable
+8587-XYZSF,Two year,Yes,DSL,Bank transfer (automatic),50.55,67,0.335,Segment Sous Surveillance
+3091-FYHKI,Month-to-month,No,DSL,Electronic check,35.45,1,0.336,Segment Sous Surveillance
+2372-HWUHI,Month-to-month,No,DSL,Electronic check,44.35,2,0.067,Segment Safe
+7799-LGRDP,Two year,No internet service,No,Credit card (automatic),25.7,43,0.427,Segment Instable
+7850-VWJUU,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.0,23,0.057,Segment Safe
+3774-VBNXY,Two year,No internet service,No,Mailed check,20.2,64,0.235,Segment Sous Surveillance
+6217-KDYWC,Two year,No internet service,No,Mailed check,19.6,57,0.015,Segment Safe
+0390-DCFDQ,Month-to-month,No,Fiber optic,Mailed check,70.45,1,0.653,Segment Instable
+3146-MSEGF,Two year,Yes,DSL,Credit card (automatic),88.05,72,0.051,Segment Safe
+4080-OGPJL,Month-to-month,Yes,DSL,Electronic check,71.15,8,0.193,Segment Sous Surveillance
+1095-WGNGG,Two year,No,Fiber optic,Bank transfer (automatic),101.05,61,0.783,Segment Critique
+2636-SJDOU,One year,No,Fiber optic,Credit card (automatic),84.3,64,0.067,Segment Safe
+1131-QQZEB,Two year,No internet service,No,Bank transfer (automatic),23.95,71,0.012,Segment Safe
+5716-EZXZN,Two year,Yes,Fiber optic,Credit card (automatic),99.05,65,0.273,Segment Sous Surveillance
+6837-BJYDQ,One year,No internet service,No,Mailed check,19.6,3,0.162,Segment Sous Surveillance
+2135-RXIHG,Month-to-month,No,DSL,Electronic check,45.65,1,0.528,Segment Instable
+6440-DKQGE,One year,No,DSL,Credit card (automatic),64.5,30,0.595,Segment Instable
+3466-BYAVD,Month-to-month,Yes,DSL,Mailed check,69.5,15,0.533,Segment Instable
+3780-YVMFA,Month-to-month,Yes,DSL,Electronic check,68.55,8,0.062,Segment Safe
+3874-EQOEP,Month-to-month,No,Fiber optic,Mailed check,95.0,7,0.689,Segment Critique
+1679-JRFBR,One year,No,Fiber optic,Credit card (automatic),108.15,70,0.144,Segment Sous Surveillance
+9073-ZZIAY,Two year,Yes,DSL,Electronic check,86.1,62,0.537,Segment Instable
+3077-RSNTJ,Month-to-month,No internet service,No,Mailed check,19.7,6,0.895,Segment Critique
+6551-GNYDG,Month-to-month,No,Fiber optic,Bank transfer (automatic),80.9,14,0.607,Segment Instable
+9167-APMXZ,Month-to-month,No,Fiber optic,Bank transfer (automatic),84.15,22,0.719,Segment Critique
+2749-CTKAJ,One year,No internet service,No,Mailed check,20.15,22,0.707,Segment Critique
+6371-NZYEG,Two year,No,DSL,Mailed check,64.25,16,0.765,Segment Critique
+7554-NEWDD,Two year,No internet service,No,Bank transfer (automatic),25.7,10,0.689,Segment Critique
+8992-VONJD,Month-to-month,No,DSL,Electronic check,56.0,13,0.213,Segment Sous Surveillance
+0867-MKZVY,Month-to-month,No,Fiber optic,Electronic check,82.4,20,0.159,Segment Sous Surveillance
+4482-EWFMI,Month-to-month,No,Fiber optic,Electronic check,69.7,2,0.009,Segment Safe
+4648-YPBTM,Two year,Yes,DSL,Bank transfer (automatic),73.9,53,0.037,Segment Safe
+2907-ILJBN,One year,No internet service,No,Mailed check,20.6,11,0.1,Segment Sous Surveillance
+6345-FZOQH,Two year,No internet service,No,Mailed check,19.9,69,0.282,Segment Sous Surveillance
+3376-BMGFE,Month-to-month,No,Fiber optic,Bank transfer (automatic),70.9,4,0.081,Segment Safe
+5997-OPVFA,Two year,Yes,DSL,Bank transfer (automatic),89.05,72,0.346,Segment Sous Surveillance
+3445-HXXGF,Month-to-month,No,DSL,Electronic check,45.3,58,0.173,Segment Sous Surveillance
+1159-WFSGR,Month-to-month,No internet service,No,Electronic check,20.4,16,0.063,Segment Safe
+7654-YWJUF,One year,Yes,Fiber optic,Bank transfer (automatic),84.25,43,0.611,Segment Instable
+1875-QIVME,Month-to-month,Yes,Fiber optic,Electronic check,104.4,2,0.948,Segment Critique
+6727-IOTLZ,Two year,Yes,DSL,Mailed check,81.95,14,0.25,Segment Sous Surveillance
+0691-JVSYA,One year,No,Fiber optic,Bank transfer (automatic),94.85,53,0.558,Segment Instable
+5918-VUKWP,One year,No internet service,No,Bank transfer (automatic),20.55,32,0.74,Segment Critique
+1744-JHKYS,Month-to-month,No internet service,No,Electronic check,24.7,34,0.714,Segment Critique
+2656-FMOKZ,Month-to-month,No,Fiber optic,Mailed check,74.45,15,0.03,Segment Safe
+2070-FNEXE,Month-to-month,No,Fiber optic,Bank transfer (automatic),76.45,7,0.027,Segment Safe
+5947-SGKCL,Month-to-month,No,Fiber optic,Bank transfer (automatic),105.35,15,0.576,Segment Instable
+3712-PKXZA,One year,No internet service,No,Credit card (automatic),20.55,61,0.301,Segment Sous Surveillance
+6317-YPKDH,Month-to-month,No,DSL,Bank transfer (automatic),29.95,1,0.779,Segment Critique
+6582-OIVSP,Month-to-month,No,DSL,Mailed check,45.3,1,0.143,Segment Sous Surveillance
+9367-WXLCH,Month-to-month,No,Fiber optic,Bank transfer (automatic),84.5,8,0.874,Segment Critique
+5524-KHNJP,One year,No,DSL,Credit card (automatic),74.75,33,0.507,Segment Instable
+1918-ZBFQJ,Month-to-month,No,Fiber optic,Electronic check,79.25,13,0.008,Segment Safe
+1024-GUALD,Month-to-month,No,DSL,Electronic check,24.8,1,0.497,Segment Instable
+4827-USJHP,Month-to-month,No,DSL,Mailed check,51.8,20,0.168,Segment Sous Surveillance
+8167-GJLRN,Month-to-month,Yes,DSL,Electronic check,30.4,3,0.642,Segment Instable
+0956-SYCWG,One year,No internet service,No,Electronic check,19.65,13,0.322,Segment Sous Surveillance
+8017-UVSZU,Month-to-month,No,DSL,Credit card (automatic),56.6,40,0.053,Segment Safe
+7100-FQPRV,One year,Yes,DSL,Credit card (automatic),71.9,43,0.34,Segment Sous Surveillance
+2472-OVKUP,Month-to-month,No,Fiber optic,Electronic check,91.0,6,0.653,Segment Instable
+2984-RGEYA,Two year,No internet service,No,Bank transfer (automatic),19.75,69,0.789,Segment Critique
+9680-NIAUV,Two year,No,Fiber optic,Credit card (automatic),109.7,72,0.037,Segment Safe
+2146-EGVDT,Two year,No internet service,No,Credit card (automatic),19.3,59,0.694,Segment Critique
+2604-IJPDU,Month-to-month,Yes,Fiber optic,Electronic check,96.55,20,0.651,Segment Instable
+9178-JHUVJ,Two year,No internet service,No,Bank transfer (automatic),24.1,24,0.63,Segment Instable
+6168-YBYNP,Month-to-month,Yes,Fiber optic,Electronic check,111.35,59,0.519,Segment Instable
+7255-SSFBC,Two year,Yes,Fiber optic,Bank transfer (automatic),112.25,72,0.624,Segment Instable
+3645-DEYGF,Month-to-month,No internet service,No,Mailed check,20.75,1,0.649,Segment Instable
+9323-HGFWY,One year,Yes,Fiber optic,Credit card (automatic),101.9,27,0.43,Segment Instable
+8544-GOQSH,Month-to-month,Yes,Fiber optic,Credit card (automatic),80.05,14,0.037,Segment Safe
+3363-DTIVD,Two year,No,Fiber optic,Electronic check,105.55,71,0.089,Segment Sous Surveillance
+7018-WBJNK,Month-to-month,No,Fiber optic,Credit card (automatic),78.3,13,0.181,Segment Sous Surveillance
+9142-KZXOP,Month-to-month,No,Fiber optic,Credit card (automatic),68.85,44,0.3,Segment Sous Surveillance
+7674-YTAFD,One year,Yes,Fiber optic,Bank transfer (automatic),79.95,33,0.203,Segment Sous Surveillance
+6348-SNFUS,Two year,Yes,DSL,Credit card (automatic),55.45,72,0.237,Segment Sous Surveillance
+1285-OKIPP,Month-to-month,No,Fiber optic,Electronic check,79.9,1,0.33,Segment Sous Surveillance
+7825-ECJRF,Month-to-month,Yes,Fiber optic,Electronic check,106.6,19,0.603,Segment Instable
+1347-KTTTA,One year,Yes,Fiber optic,Credit card (automatic),102.45,64,0.021,Segment Safe
+7841-TZDMQ,Month-to-month,No,DSL,Credit card (automatic),46.0,2,0.295,Segment Sous Surveillance
+4195-NZGTA,Month-to-month,No,DSL,Electronic check,25.25,1,0.707,Segment Critique
+7157-SMCFK,Two year,No internet service,No,Mailed check,19.75,61,0.491,Segment Instable
+4709-LKHYG,One year,No internet service,No,Electronic check,20.0,29,0.042,Segment Safe
+2504-DSHIH,Month-to-month,No,Fiber optic,Electronic check,86.8,23,0.07,Segment Safe
+0699-NDKJM,Month-to-month,No,DSL,Bank transfer (automatic),58.75,57,0.589,Segment Instable
+9286-BHDQG,Two year,Yes,DSL,Credit card (automatic),45.25,72,0.056,Segment Safe
+0230-WEQUW,Two year,Yes,DSL,Bank transfer (automatic),56.6,66,0.666,Segment Instable
+2040-LDIWQ,Two year,Yes,DSL,Bank transfer (automatic),84.2,65,0.722,Segment Critique
+6496-JDSSB,Month-to-month,No,Fiber optic,Bank transfer (automatic),80.0,8,0.186,Segment Sous Surveillance
+9408-SSNVZ,Month-to-month,No,Fiber optic,Electronic check,70.15,4,0.228,Segment Sous Surveillance
+4443-EMBNA,Two year,No internet service,No,Bank transfer (automatic),24.75,71,0.329,Segment Sous Surveillance
+6469-MRVET,One year,No internet service,No,Electronic check,20.2,1,0.601,Segment Instable
+0742-MOABM,Month-to-month,Yes,DSL,Mailed check,50.05,4,0.168,Segment Sous Surveillance
+5961-VUSRV,One year,No internet service,No,Bank transfer (automatic),19.35,12,0.865,Segment Critique
+6778-JFCMK,One year,No,DSL,Mailed check,50.6,24,0.203,Segment Sous Surveillance
+6341-JVQGF,One year,Yes,DSL,Mailed check,81.15,31,0.014,Segment Safe
+2232-DMLXU,Month-to-month,No,DSL,Mailed check,55.2,1,0.229,Segment Sous Surveillance
+4811-JBUVU,Month-to-month,Yes,Fiber optic,Credit card (automatic),89.9,30,0.844,Segment Critique
+0945-TSONX,Two year,Yes,DSL,Credit card (automatic),85.3,47,0.874,Segment Critique
+2651-ZCBXV,Two year,Yes,Fiber optic,Credit card (automatic),108.0,54,0.164,Segment Sous Surveillance
+3316-UWXUY,Month-to-month,Yes,Fiber optic,Credit card (automatic),93.5,50,0.785,Segment Critique
+8937-RDTHP,Month-to-month,No,Fiber optic,Mailed check,84.6,1,0.611,Segment Instable
+7083-MIOPC,Two year,No internet service,No,Credit card (automatic),20.25,72,0.038,Segment Safe
+1984-GPTEH,Month-to-month,No internet service,No,Electronic check,25.15,29,0.935,Segment Critique
+1251-KRREG,Month-to-month,No,DSL,Mailed check,54.4,2,0.883,Segment Critique
+0621-JFHOL,Two year,Yes,DSL,Mailed check,29.6,10,0.638,Segment Instable
+9903-LYSAB,Month-to-month,No,Fiber optic,Electronic check,73.15,18,0.587,Segment Instable
+0094-OIFMO,Month-to-month,No,Fiber optic,Electronic check,95.0,11,0.456,Segment Instable
+9227-UAQFT,Two year,No internet service,No,Mailed check,19.75,16,0.672,Segment Instable
+7301-ABVAD,Two year,Yes,DSL,Bank transfer (automatic),86.6,72,0.878,Segment Critique
+6614-FHDBO,Two year,Yes,Fiber optic,Bank transfer (automatic),109.2,72,0.74,Segment Critique
+7576-ASEJU,One year,Yes,DSL,Credit card (automatic),74.7,41,0.124,Segment Sous Surveillance
+9058-HRZSV,Month-to-month,No,Fiber optic,Electronic check,94.4,65,0.336,Segment Sous Surveillance
+4522-AKYLR,Month-to-month,No,DSL,Electronic check,54.8,13,0.793,Segment Critique
+0221-WMXNQ,Month-to-month,No,Fiber optic,Electronic check,75.35,4,0.808,Segment Critique
+0303-UNCIP,One year,No,DSL,Mailed check,65.0,41,0.82,Segment Critique
+9947-OTFQU,Month-to-month,No,Fiber optic,Electronic check,74.4,15,0.097,Segment Sous Surveillance
+0322-YINQP,Month-to-month,No,DSL,Mailed check,48.55,1,0.065,Segment Safe
+0959-WHOKV,One year,No,Fiber optic,Electronic check,99.0,42,0.65,Segment Instable
+4075-JFPGR,One year,No,Fiber optic,Electronic check,93.5,51,0.065,Segment Safe
+4629-NRXKX,Month-to-month,No,Fiber optic,Electronic check,70.4,2,0.043,Segment Safe
+9514-JDSKI,Month-to-month,No,DSL,Electronic check,40.2,1,0.173,Segment Sous Surveillance
+3282-ZISZV,One year,Yes,DSL,Credit card (automatic),83.7,32,0.081,Segment Safe
+3675-YDUPJ,Month-to-month,No internet service,No,Mailed check,19.85,10,0.529,Segment Instable
+4111-BNXIF,Two year,Yes,DSL,Electronic check,59.55,67,0.044,Segment Safe
+7017-VFHAY,Two year,Yes,Fiber optic,Credit card (automatic),115.1,61,0.105,Segment Sous Surveillance
+6655-LHBYW,One year,Yes,Fiber optic,Credit card (automatic),114.35,50,0.452,Segment Instable
+4959-JOSRX,Month-to-month,No,DSL,Credit card (automatic),44.6,2,0.505,Segment Instable
+5046-NUHWD,Month-to-month,No,DSL,Electronic check,45.0,29,0.68,Segment Instable
+7273-TEFQD,Month-to-month,No,DSL,Electronic check,41.15,3,0.616,Segment Instable
+3606-TWKGI,Month-to-month,No,Fiber optic,Electronic check,106.9,13,0.279,Segment Sous Surveillance
+7529-ZDFXI,Month-to-month,No,Fiber optic,Electronic check,89.85,57,0.01,Segment Safe
+7605-BDWDC,Two year,Yes,DSL,Bank transfer (automatic),49.85,31,0.28,Segment Sous Surveillance
+1950-KSVVJ,One year,Yes,Fiber optic,Mailed check,113.3,45,0.859,Segment Critique
+0123-CRBRT,Two year,Yes,DSL,Mailed check,88.1,61,0.308,Segment Sous Surveillance
+6292-TOSSS,Two year,No internet service,No,Bank transfer (automatic),24.9,50,0.788,Segment Critique
+3197-ARFOY,Month-to-month,Yes,Fiber optic,Mailed check,105.0,19,0.049,Segment Safe
+6323-AYBRX,Two year,No internet service,No,Mailed check,19.35,59,0.474,Segment Instable
+7014-ZZXAW,Two year,No internet service,No,Credit card (automatic),24.25,71,0.815,Segment Critique
+4385-GZQXV,Month-to-month,Yes,Fiber optic,Electronic check,94.45,16,0.752,Segment Critique
+7633-MVPUY,Two year,Yes,DSL,Electronic check,59.75,57,0.019,Segment Safe
+6366-ZGQGL,Month-to-month,No,DSL,Bank transfer (automatic),24.8,1,0.619,Segment Instable
+4716-HHKQH,Month-to-month,Yes,Fiber optic,Electronic check,107.05,20,0.34,Segment Sous Surveillance
+5940-AHUHD,Month-to-month,No,Fiber optic,Mailed check,70.6,1,0.02,Segment Safe
+6432-TWQLB,Month-to-month,Yes,Fiber optic,Electronic check,85.4,5,0.821,Segment Critique
+4484-GLZOU,Month-to-month,No,Fiber optic,Electronic check,105.05,52,0.891,Segment Critique
+3179-GBRWV,Month-to-month,No,DSL,Bank transfer (automatic),64.95,21,0.724,Segment Critique
+8645-KWHJO,Month-to-month,Yes,DSL,Electronic check,55.0,14,0.93,Segment Critique
+4130-MZLCC,Month-to-month,No,DSL,Bank transfer (automatic),50.55,5,0.215,Segment Sous Surveillance
+0314-TKOSI,Month-to-month,No,DSL,Mailed check,55.15,6,0.698,Segment Critique
+8229-MYEJZ,Month-to-month,No,DSL,Electronic check,51.2,10,0.215,Segment Sous Surveillance
+2080-SRCDE,Month-to-month,No internet service,No,Mailed check,25.4,1,0.591,Segment Instable
+9577-WJVCQ,Month-to-month,No,DSL,Mailed check,54.45,68,0.081,Segment Safe
+9512-UIBFX,Month-to-month,No,Fiber optic,Mailed check,95.15,18,0.754,Segment Critique
+6202-DYYFX,One year,No,Fiber optic,Credit card (automatic),76.0,22,0.868,Segment Critique
+3808-HFKDE,Month-to-month,No,DSL,Electronic check,44.35,20,0.395,Segment Instable
+5583-SXDAG,Month-to-month,No,Fiber optic,Electronic check,70.0,1,0.084,Segment Safe
+3488-PGMQJ,Month-to-month,No,Fiber optic,Electronic check,74.5,8,0.762,Segment Critique
+3580-REOAC,Month-to-month,No,DSL,Credit card (automatic),44.85,10,0.069,Segment Safe
+7534-BFESC,Month-to-month,No,Fiber optic,Electronic check,76.1,24,0.624,Segment Instable
+3727-OWVYD,One year,No,DSL,Mailed check,61.2,35,0.296,Segment Sous Surveillance
+2294-SALNE,One year,Yes,Fiber optic,Mailed check,86.8,23,0.013,Segment Safe
+4847-TAJYI,Month-to-month,No,Fiber optic,Electronic check,89.35,6,0.247,Segment Sous Surveillance
+1563-IWQEX,Month-to-month,No internet service,No,Mailed check,19.7,12,0.115,Segment Sous Surveillance
+8203-XJZRC,Month-to-month,No internet service,No,Mailed check,20.25,1,0.458,Segment Instable
+6556-DBKZF,Two year,No,Fiber optic,Electronic check,76.05,71,0.586,Segment Instable
+6851-WEFYX,Month-to-month,No,Fiber optic,Electronic check,100.8,35,0.042,Segment Safe
+2985-JUUBZ,Month-to-month,No,DSL,Electronic check,74.55,40,0.081,Segment Safe
+6390-DSAZX,Month-to-month,No,Fiber optic,Mailed check,73.6,1,0.158,Segment Sous Surveillance
+0895-LMRSF,One year,No,DSL,Bank transfer (automatic),64.9,23,0.01,Segment Safe
+8098-LLAZX,Month-to-month,No,Fiber optic,Electronic check,95.45,4,0.509,Segment Instable
+8266-VBFQL,Month-to-month,Yes,Fiber optic,Electronic check,90.4,4,0.784,Segment Critique
+8181-YHCMF,Two year,Yes,DSL,Credit card (automatic),60.3,68,0.083,Segment Safe
+2240-HSJQD,Month-to-month,No,Fiber optic,Mailed check,81.85,38,0.886,Segment Critique
+1248-DYXUB,Two year,No internet service,No,Mailed check,24.8,52,0.38,Segment Instable
+0265-EDXBD,Month-to-month,No,Fiber optic,Electronic check,74.9,32,0.202,Segment Sous Surveillance
+4115-BNPJY,Two year,Yes,DSL,Mailed check,75.55,29,0.267,Segment Sous Surveillance
+3167-SNQPL,Month-to-month,No,Fiber optic,Electronic check,101.15,38,0.384,Segment Instable
+4091-TVOCN,One year,No,DSL,Credit card (automatic),78.75,48,0.233,Segment Sous Surveillance
+1098-TDVUQ,Month-to-month,No internet service,No,Bank transfer (automatic),19.25,1,0.813,Segment Critique
+7277-OZCGZ,Month-to-month,Yes,Fiber optic,Electronic check,89.05,22,0.783,Segment Critique
+1557-EMYVT,Two year,Yes,Fiber optic,Credit card (automatic),115.05,43,0.087,Segment Safe
+2799-ARNLO,Month-to-month,No,Fiber optic,Electronic check,69.35,5,0.222,Segment Sous Surveillance
+7563-BIUPC,Month-to-month,No,Fiber optic,Electronic check,80.6,5,0.192,Segment Sous Surveillance
+5027-YOCXN,One year,Yes,Fiber optic,Credit card (automatic),110.05,51,0.105,Segment Sous Surveillance
+3973-SKMLN,Two year,No internet service,No,Credit card (automatic),19.9,71,0.196,Segment Sous Surveillance
+2321-OMBXY,One year,Yes,DSL,Credit card (automatic),80.3,38,0.142,Segment Sous Surveillance
+2840-XANRC,Month-to-month,No,Fiber optic,Electronic check,93.15,24,0.592,Segment Instable
+6745-JEFZB,Month-to-month,Yes,Fiber optic,Credit card (automatic),91.5,35,0.799,Segment Critique
+5020-ZSTTY,One year,Yes,DSL,Bank transfer (automatic),82.45,54,0.676,Segment Instable
+9880-TDQAC,Two year,Yes,DSL,Electronic check,60.0,72,0.786,Segment Critique
+8705-WZCYL,Month-to-month,No,DSL,Electronic check,44.8,1,0.724,Segment Critique
+7102-JJVTX,One year,No,DSL,Mailed check,48.6,9,0.213,Segment Sous Surveillance
+8626-PTQGE,Two year,Yes,DSL,Bank transfer (automatic),60.05,69,0.564,Segment Instable
+4983-CLMLV,Month-to-month,Yes,Fiber optic,Credit card (automatic),102.7,52,0.063,Segment Safe
+5701-YVSVF,Month-to-month,Yes,Fiber optic,Electronic check,82.9,11,0.215,Segment Sous Surveillance
+5804-LEPIM,Month-to-month,No,Fiber optic,Electronic check,70.35,2,0.8,Segment Critique
+5697-GOMBF,Month-to-month,No,DSL,Electronic check,35.9,28,0.083,Segment Safe
+2739-CACDQ,Month-to-month,No,Fiber optic,Credit card (automatic),82.65,17,0.064,Segment Safe
+9385-EHGDO,Two year,No internet service,No,Mailed check,19.85,35,0.591,Segment Instable
+9498-FIMXL,One year,No internet service,No,Mailed check,19.2,8,0.364,Segment Sous Surveillance
+2379-GYFLQ,One year,No,Fiber optic,Credit card (automatic),94.9,46,0.042,Segment Safe
+0122-OAHPZ,Month-to-month,No,Fiber optic,Electronic check,73.85,7,0.096,Segment Sous Surveillance
+2868-SNELZ,Month-to-month,No,Fiber optic,Mailed check,80.6,2,0.008,Segment Safe
+4322-RCYMT,One year,Yes,DSL,Bank transfer (automatic),75.8,68,0.022,Segment Safe
+6680-NENYN,Two year,No,Fiber optic,Electronic check,104.6,43,0.753,Segment Critique
+2088-IEBAU,Two year,Yes,DSL,Electronic check,88.15,68,0.223,Segment Sous Surveillance
+7982-VCELR,Month-to-month,No,Fiber optic,Credit card (automatic),94.8,36,0.037,Segment Safe
+1343-EHPYB,Month-to-month,No,Fiber optic,Electronic check,103.4,63,0.055,Segment Safe
+6035-BXTTY,Month-to-month,Yes,DSL,Bank transfer (automatic),54.65,32,0.009,Segment Safe
+6885-PKOAM,Two year,Yes,DSL,Credit card (automatic),85.75,71,0.928,Segment Critique
+7520-HQWJU,Month-to-month,No,DSL,Bank transfer (automatic),67.45,66,0.333,Segment Sous Surveillance
+9639-BUJXT,One year,No internet service,No,Mailed check,20.5,63,0.518,Segment Instable
+5924-SNGKP,One year,No internet service,No,Credit card (automatic),20.25,41,0.942,Segment Critique
+0021-IKXGC,Month-to-month,No,Fiber optic,Electronic check,72.1,1,0.117,Segment Sous Surveillance
+2034-GDRCN,Month-to-month,No,Fiber optic,Electronic check,90.4,2,0.046,Segment Safe
+8966-SNIZF,Two year,No internet service,No,Bank transfer (automatic),19.45,70,0.691,Segment Critique
+6243-OZGFH,Month-to-month,No,DSL,Electronic check,44.95,23,0.322,Segment Sous Surveillance
+4654-DLAMQ,One year,No,Fiber optic,Bank transfer (automatic),97.0,64,0.807,Segment Critique
+0513-RBGPE,Two year,Yes,DSL,Credit card (automatic),62.8,37,0.368,Segment Sous Surveillance
+5160-UXJED,One year,No,DSL,Mailed check,44.6,17,0.202,Segment Sous Surveillance
+4115-NZRKS,Month-to-month,No,Fiber optic,Electronic check,89.15,7,0.413,Segment Instable
+0219-YTZUE,Month-to-month,No,Fiber optic,Bank transfer (automatic),84.8,4,0.406,Segment Instable
+0623-IIHUG,Month-to-month,No,DSL,Electronic check,41.9,21,0.008,Segment Safe
+4572-DVCGN,Month-to-month,No,Fiber optic,Bank transfer (automatic),80.25,10,0.295,Segment Sous Surveillance
+3351-NGXYI,Month-to-month,No,DSL,Electronic check,54.1,16,0.387,Segment Instable
+8984-EYLLL,Two year,Yes,Fiber optic,Electronic check,105.25,64,0.749,Segment Critique
+9057-MSWCO,Month-to-month,No,DSL,Credit card (automatic),30.75,27,0.122,Segment Sous Surveillance
+9833-TGFHX,One year,No,Fiber optic,Electronic check,97.1,42,0.879,Segment Critique
+9294-TDIPC,Month-to-month,No internet service,No,Mailed check,20.2,5,0.821,Segment Critique
+5229-DTFYB,Two year,Yes,Fiber optic,Bank transfer (automatic),98.8,41,0.068,Segment Safe
+0104-PPXDV,One year,No,DSL,Credit card (automatic),50.3,58,0.346,Segment Sous Surveillance
+5176-LMJXE,Two year,No internet service,No,Mailed check,20.55,47,0.441,Segment Instable
+3583-KRKMD,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),75.9,18,0.276,Segment Sous Surveillance
+1010-DIAUQ,Month-to-month,No,Fiber optic,Bank transfer (automatic),96.5,5,0.457,Segment Instable
+9069-LGEUL,Month-to-month,No,DSL,Bank transfer (automatic),59.95,23,0.401,Segment Instable
+7302-ZHMHP,Month-to-month,No internet service,No,Mailed check,19.15,1,0.124,Segment Sous Surveillance
+9571-EDEBV,One year,No,Fiber optic,Credit card (automatic),98.65,71,0.068,Segment Safe
+3520-FJGCV,Two year,Yes,Fiber optic,Credit card (automatic),112.6,72,0.704,Segment Critique
+6563-VRERX,One year,No internet service,No,Mailed check,20.6,33,0.796,Segment Critique
+0259-GBZSH,Month-to-month,No,Fiber optic,Electronic check,85.65,2,0.773,Segment Critique
+6122-EFVKN,Two year,Yes,DSL,Mailed check,35.75,24,0.572,Segment Instable
+2805-EDJPQ,One year,Yes,Fiber optic,Credit card (automatic),99.75,56,0.596,Segment Instable
+6862-CQUMB,Month-to-month,No,Fiber optic,Credit card (automatic),96.1,37,0.454,Segment Instable
+7156-MXBJE,One year,Yes,DSL,Credit card (automatic),85.1,43,0.254,Segment Sous Surveillance
+6158-HDPXZ,Month-to-month,No,DSL,Mailed check,25.35,1,0.158,Segment Sous Surveillance
+9601-BRXPO,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),104.95,25,0.59,Segment Instable
+2863-IMQDR,Two year,Yes,DSL,Electronic check,89.65,61,0.243,Segment Sous Surveillance
+5686-CMAWK,One year,Yes,Fiber optic,Electronic check,86.75,17,0.081,Segment Safe
+5651-CRHKQ,One year,Yes,Fiber optic,Bank transfer (automatic),86.2,41,0.262,Segment Sous Surveillance
+6905-NIQIN,Month-to-month,No,DSL,Mailed check,50.65,1,0.626,Segment Instable
+8204-YJCLA,Two year,Yes,DSL,Bank transfer (automatic),64.8,72,0.054,Segment Safe
+5167-ZFFMM,Month-to-month,No,Fiber optic,Credit card (automatic),90.85,1,0.842,Segment Critique
+6583-SZVGP,Two year,No,Fiber optic,Bank transfer (automatic),108.1,48,0.517,Segment Instable
+4895-TMWIR,Month-to-month,No internet service,No,Mailed check,19.95,11,0.582,Segment Instable
+0533-BNWKF,Month-to-month,No,Fiber optic,Electronic check,85.45,55,0.612,Segment Instable
+1708-PBBOA,One year,Yes,DSL,Electronic check,54.75,42,0.81,Segment Critique
+8782-LKFPK,Month-to-month,No,Fiber optic,Mailed check,90.4,44,0.061,Segment Safe
+5522-JBWMO,Month-to-month,No,DSL,Electronic check,44.0,1,0.776,Segment Critique
+3597-MVHJT,Month-to-month,No,Fiber optic,Bank transfer (automatic),95.6,27,0.063,Segment Safe
+9774-NRNAU,Month-to-month,Yes,DSL,Bank transfer (automatic),84.8,27,0.132,Segment Sous Surveillance
+0224-RLWWD,Month-to-month,No,DSL,Electronic check,44.3,2,0.778,Segment Critique
+9967-ATRFS,Month-to-month,No internet service,No,Mailed check,19.9,19,0.097,Segment Sous Surveillance
+3951-NJCVI,Month-to-month,No,Fiber optic,Electronic check,95.05,42,0.357,Segment Sous Surveillance
+2977-CEBSX,Two year,Yes,DSL,Credit card (automatic),90.05,66,0.055,Segment Safe
+0177-PXBAT,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),109.9,33,0.041,Segment Safe
+6599-CEBNN,Month-to-month,No,Fiber optic,Credit card (automatic),73.95,34,0.101,Segment Sous Surveillance
+2519-ERQOJ,Month-to-month,Yes,DSL,Electronic check,54.6,33,0.036,Segment Safe
+5876-QMYLD,One year,No internet service,No,Mailed check,20.05,23,0.782,Segment Critique
+2277-AXSDC,One year,No internet service,No,Bank transfer (automatic),19.75,32,0.021,Segment Safe
+9442-JTWDL,One year,No internet service,No,Credit card (automatic),20.05,11,0.566,Segment Instable
+0979-PHULV,Month-to-month,No,Fiber optic,Credit card (automatic),99.45,69,0.386,Segment Instable
+3067-SVMTC,One year,Yes,DSL,Bank transfer (automatic),55.9,68,0.43,Segment Instable
+5495-GPSRW,Two year,No internet service,No,Mailed check,19.7,20,0.023,Segment Safe
+7606-BPHHN,Two year,No internet service,No,Credit card (automatic),19.8,72,0.466,Segment Instable
+4742-DRORA,One year,No,Fiber optic,Bank transfer (automatic),95.4,60,0.077,Segment Safe
+0111-KLBQG,Month-to-month,No,Fiber optic,Mailed check,93.95,32,0.612,Segment Instable
+4800-VHZKI,Month-to-month,No internet service,No,Mailed check,19.9,1,0.823,Segment Critique
+7989-CHGTL,Month-to-month,No internet service,No,Mailed check,19.6,1,0.126,Segment Sous Surveillance
+0334-GDDSO,Month-to-month,No,Fiber optic,Electronic check,81.35,3,0.633,Segment Instable
+4163-NCJAK,One year,No internet service,No,Bank transfer (automatic),24.45,46,0.749,Segment Critique
+5233-AOZUF,Month-to-month,No,Fiber optic,Electronic check,74.95,29,0.795,Segment Critique
+5973-EJGDP,Month-to-month,Yes,Fiber optic,Electronic check,87.35,51,0.709,Segment Critique
+1996-DBMUS,Month-to-month,No,Fiber optic,Bank transfer (automatic),70.65,48,0.143,Segment Sous Surveillance
+7916-VCCPB,Month-to-month,No,Fiber optic,Bank transfer (automatic),73.25,16,0.341,Segment Sous Surveillance
+4686-GEFRM,Two year,Yes,Fiber optic,Bank transfer (automatic),98.7,70,0.624,Segment Instable
+5249-QYHEX,Two year,No internet service,No,Mailed check,24.8,40,0.869,Segment Critique
+0578-SKVMF,Month-to-month,No,Fiber optic,Electronic check,83.3,22,0.052,Segment Safe
+5564-NEMQO,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.3,1,0.63,Segment Instable
+2233-FAGXV,Month-to-month,No internet service,No,Mailed check,24.3,5,0.214,Segment Sous Surveillance
+5605-IYGFG,Month-to-month,No,Fiber optic,Bank transfer (automatic),69.85,7,0.18,Segment Sous Surveillance
+7663-ZTEGJ,One year,Yes,Fiber optic,Credit card (automatic),100.55,29,0.611,Segment Instable
+3935-TBRZZ,One year,No internet service,No,Mailed check,25.7,44,0.591,Segment Instable
+8111-BKVDS,Month-to-month,No,DSL,Bank transfer (automatic),40.7,10,0.021,Segment Safe
+2055-SIFSS,Month-to-month,No,DSL,Bank transfer (automatic),51.65,55,0.603,Segment Instable
+2806-MLNTI,One year,No,Fiber optic,Bank transfer (automatic),105.1,52,0.771,Segment Critique
+8734-DKSTZ,Month-to-month,No,Fiber optic,Electronic check,85.95,10,0.788,Segment Critique
+4360-PNRQB,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.6,18,0.021,Segment Safe
+6152-ONASV,One year,Yes,DSL,Bank transfer (automatic),58.25,68,0.02,Segment Safe
+9063-ZGTUY,Month-to-month,No internet service,No,Mailed check,19.4,61,0.041,Segment Safe
+7781-HVGMK,Two year,Yes,DSL,Credit card (automatic),65.2,72,0.394,Segment Instable
+2181-UAESM,Month-to-month,No,DSL,Electronic check,53.45,2,0.216,Segment Sous Surveillance
+2957-LOLHO,Month-to-month,No,DSL,Bank transfer (automatic),45.4,12,0.213,Segment Sous Surveillance
+6048-NJXHX,Two year,No internet service,No,Electronic check,19.75,41,0.254,Segment Sous Surveillance
+2320-SLKMB,Month-to-month,Yes,DSL,Credit card (automatic),44.45,26,0.914,Segment Critique
+4980-URKXC,One year,No internet service,No,Bank transfer (automatic),20.85,36,0.296,Segment Sous Surveillance
+4376-KFVRS,Two year,Yes,Fiber optic,Credit card (automatic),114.05,72,0.037,Segment Safe
+5886-VLQVU,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),89.85,35,0.234,Segment Sous Surveillance
+3577-AMVUX,Month-to-month,Yes,DSL,Mailed check,55.05,1,0.519,Segment Instable
+0771-WLCLA,Month-to-month,Yes,Fiber optic,Electronic check,112.95,16,0.373,Segment Instable
+5628-RKIFK,Month-to-month,No,Fiber optic,Credit card (automatic),101.55,49,0.758,Segment Critique
+0206-TBWLC,One year,Yes,Fiber optic,Mailed check,114.65,54,0.203,Segment Sous Surveillance
+2937-FTHUR,Month-to-month,No,DSL,Electronic check,64.8,18,0.44,Segment Instable
+1910-FMXJM,Month-to-month,No,Fiber optic,Electronic check,80.4,36,0.356,Segment Sous Surveillance
+7752-XUSCI,Month-to-month,No,Fiber optic,Electronic check,105.9,60,0.592,Segment Instable
+4110-PFEUZ,Month-to-month,No,Fiber optic,Mailed check,69.55,1,0.079,Segment Safe
+0732-OCQOC,Two year,No internet service,No,Bank transfer (automatic),25.05,52,0.191,Segment Sous Surveillance
+5168-MSWXT,Month-to-month,No,Fiber optic,Electronic check,94.75,8,0.671,Segment Instable
+1090-ESELR,Two year,Yes,Fiber optic,Bank transfer (automatic),105.5,72,0.794,Segment Critique
+8592-PLTMQ,One year,No internet service,No,Mailed check,24.7,64,0.743,Segment Critique
+5760-WRAHC,Month-to-month,Yes,DSL,Mailed check,69.75,22,0.232,Segment Sous Surveillance
+8847-GEOOQ,Month-to-month,Yes,DSL,Bank transfer (automatic),60.2,60,0.31,Segment Sous Surveillance
+0256-LTHVJ,Month-to-month,No,Fiber optic,Electronic check,81.05,28,0.384,Segment Instable
+4785-FCIFB,Two year,No internet service,No,Mailed check,24.4,61,0.903,Segment Critique
+8313-NDOIA,Month-to-month,No,Fiber optic,Electronic check,104.15,24,0.008,Segment Safe
+5149-CUZUJ,One year,Yes,Fiber optic,Bank transfer (automatic),92.9,28,0.539,Segment Instable
+0942-KOWSM,Two year,Yes,DSL,Bank transfer (automatic),80.8,30,0.023,Segment Safe
+4237-CLSMM,Month-to-month,No internet service,No,Mailed check,20.0,2,0.038,Segment Safe
+1452-VOQCH,Month-to-month,No,Fiber optic,Electronic check,75.1,1,0.607,Segment Instable
+4719-UMSIY,Month-to-month,No internet service,No,Mailed check,19.65,6,0.041,Segment Safe
+6614-VBEGU,Month-to-month,No,DSL,Bank transfer (automatic),69.45,24,0.226,Segment Sous Surveillance
+0880-TKATG,Month-to-month,No,Fiber optic,Electronic check,101.15,4,0.521,Segment Instable
+3811-VBYBZ,Month-to-month,No,Fiber optic,Electronic check,99.8,7,0.019,Segment Safe
+1480-BKXGA,Two year,Yes,Fiber optic,Bank transfer (automatic),116.05,72,0.012,Segment Safe
+2996-XAUVF,Two year,Yes,DSL,Mailed check,40.05,70,0.287,Segment Sous Surveillance
+9076-AXYIK,Two year,Yes,Fiber optic,Electronic check,102.1,64,0.125,Segment Sous Surveillance
+5968-XQIVE,One year,No,Fiber optic,Electronic check,89.7,72,0.548,Segment Instable
+8896-RAZCR,Two year,No internet service,No,Mailed check,19.9,44,0.099,Segment Sous Surveillance
+4640-UHDOS,Month-to-month,No,DSL,Electronic check,55.95,13,0.116,Segment Sous Surveillance
+4933-IKULF,One year,No internet service,No,Mailed check,20.65,17,0.322,Segment Sous Surveillance
+3583-EKAPL,Month-to-month,No,DSL,Electronic check,55.0,1,0.322,Segment Sous Surveillance
+1304-BCCFO,Month-to-month,No,DSL,Mailed check,70.05,9,0.142,Segment Sous Surveillance
+4104-PVRPS,Month-to-month,Yes,DSL,Mailed check,53.6,24,0.362,Segment Sous Surveillance
+9399-APLBT,Month-to-month,No,Fiber optic,Electronic check,74.7,1,0.306,Segment Sous Surveillance
+2359-KMGLI,Month-to-month,No,Fiber optic,Electronic check,80.25,24,0.008,Segment Safe
+3780-DDGSE,Month-to-month,Yes,DSL,Electronic check,76.05,35,0.407,Segment Instable
+4431-EDMIQ,Month-to-month,Yes,DSL,Electronic check,75.7,7,0.589,Segment Instable
+0306-JAELE,Month-to-month,Yes,Fiber optic,Electronic check,96.1,5,0.7,Segment Critique
+6227-HWPWX,Month-to-month,No,Fiber optic,Bank transfer (automatic),69.0,15,0.708,Segment Critique
+0486-LGCCH,Two year,No internet service,No,Mailed check,19.65,11,0.832,Segment Critique
+0447-BEMNG,Month-to-month,No,DSL,Bank transfer (automatic),45.3,48,0.774,Segment Critique
+4612-SSVHJ,Month-to-month,No,Fiber optic,Electronic check,81.45,20,0.012,Segment Safe
+5168-MQQCA,One year,Yes,Fiber optic,Bank transfer (automatic),108.5,72,0.553,Segment Instable
+5949-XIKAE,Month-to-month,No,Fiber optic,Electronic check,83.55,8,0.875,Segment Critique
+7971-HLVXI,Two year,No,Fiber optic,Credit card (automatic),84.5,72,0.048,Segment Safe
+9094-AZPHK,Month-to-month,No,Fiber optic,Electronic check,100.15,15,0.052,Segment Safe
+3649-JPUGY,Two year,Yes,DSL,Bank transfer (automatic),88.6,72,0.014,Segment Safe
+4472-LVYGI,Two year,Yes,DSL,Bank transfer (automatic),52.55,0,0.861,Segment Critique
+8372-JUXUI,Month-to-month,No,Fiber optic,Electronic check,74.35,1,0.473,Segment Instable
+3552-CTCYF,Two year,No,Fiber optic,Bank transfer (automatic),104.8,63,0.654,Segment Instable
+6778-YSNIH,Month-to-month,No,DSL,Electronic check,59.0,2,0.818,Segment Critique
+0388-EOPEX,Month-to-month,No,Fiber optic,Electronic check,74.4,2,0.42,Segment Instable
+5756-OZRIO,One year,No,DSL,Bank transfer (automatic),64.05,61,0.815,Segment Critique
+6579-JPICP,Month-to-month,No internet service,No,Mailed check,20.4,1,0.026,Segment Safe
+8205-OTCHB,One year,No,DSL,Bank transfer (automatic),43.75,22,0.832,Segment Critique
+4134-BSXLX,Month-to-month,Yes,DSL,Mailed check,60.9,28,0.397,Segment Instable
+0505-SPOOW,Two year,No internet service,No,Bank transfer (automatic),19.8,70,0.573,Segment Instable
+6235-VDHOM,Month-to-month,No,DSL,Electronic check,28.45,5,0.063,Segment Safe
+7783-YKGDV,Month-to-month,No,Fiber optic,Bank transfer (automatic),99.7,12,0.759,Segment Critique
+4374-YMUSQ,One year,Yes,Fiber optic,Credit card (automatic),116.25,34,0.048,Segment Safe
+4513-CXYIX,Two year,No,Fiber optic,Credit card (automatic),80.7,71,0.487,Segment Instable
+3957-HHLMR,One year,No,DSL,Bank transfer (automatic),65.2,70,0.743,Segment Critique
+7803-XOCCZ,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),84.05,52,0.008,Segment Safe
+5736-YEJAX,Two year,Yes,DSL,Credit card (automatic),79.45,69,0.22,Segment Sous Surveillance
+5609-CEBID,Month-to-month,No,Fiber optic,Electronic check,94.1,20,0.048,Segment Safe
+8981-FJGLA,Month-to-month,No,Fiber optic,Mailed check,78.0,11,0.324,Segment Sous Surveillance
+7218-HKQFK,Month-to-month,Yes,Fiber optic,Electronic check,94.2,2,0.061,Segment Safe
+4636-QRJKY,Month-to-month,Yes,Fiber optic,Electronic check,80.5,6,0.679,Segment Instable
+1135-LMECX,Month-to-month,No internet service,No,Mailed check,19.85,1,0.051,Segment Safe
+4332-MUOEZ,One year,Yes,Fiber optic,Credit card (automatic),94.3,20,0.912,Segment Critique
+8535-SFUTN,Month-to-month,No,Fiber optic,Electronic check,106.45,61,0.193,Segment Sous Surveillance
+5956-VKDTT,Month-to-month,No,Fiber optic,Electronic check,74.35,5,0.232,Segment Sous Surveillance
+8677-HDZEE,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),105.45,56,0.127,Segment Sous Surveillance
+2475-MROZF,Month-to-month,Yes,Fiber optic,Credit card (automatic),95.0,30,0.699,Segment Critique
+9412-GHEEC,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),104.8,40,0.303,Segment Sous Surveillance
+3482-ABPKK,One year,Yes,DSL,Mailed check,54.3,28,0.086,Segment Safe
+6705-LXORM,Month-to-month,No,Fiber optic,Electronic check,70.05,5,0.393,Segment Instable
+0257-ZESQC,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.2,27,0.632,Segment Instable
+7531-GQHME,Month-to-month,No internet service,No,Credit card (automatic),20.05,12,0.242,Segment Sous Surveillance
+5174-ITUMV,One year,No,Fiber optic,Electronic check,105.4,67,0.148,Segment Sous Surveillance
+4109-CYRBD,Month-to-month,No,DSL,Electronic check,51.6,29,0.465,Segment Instable
+0913-XWSCN,Month-to-month,No,Fiber optic,Bank transfer (automatic),85.5,55,0.306,Segment Sous Surveillance
+6825-UYPFK,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.6,23,0.752,Segment Critique
+8397-MVTAZ,Month-to-month,No,Fiber optic,Electronic check,100.05,34,0.249,Segment Sous Surveillance
+0750-EBAIU,One year,No,Fiber optic,Electronic check,91.25,52,0.635,Segment Instable
+8606-CIQUL,Two year,Yes,Fiber optic,Credit card (automatic),115.75,72,0.217,Segment Sous Surveillance
+3571-DPYUH,One year,Yes,Fiber optic,Credit card (automatic),94.7,58,0.614,Segment Instable
+7601-GNDYK,Two year,No internet service,No,Mailed check,19.6,35,0.482,Segment Instable
+0356-OBMAC,Two year,Yes,Fiber optic,Bank transfer (automatic),99.9,56,0.047,Segment Safe
+8067-NIOYM,Two year,No internet service,No,Credit card (automatic),21.1,24,0.743,Segment Critique
+1403-GYAFU,Two year,No internet service,No,Credit card (automatic),20.05,70,0.088,Segment Sous Surveillance
+4234-XTNEA,Month-to-month,No,Fiber optic,Electronic check,79.95,2,0.517,Segment Instable
+1297-VQDRP,One year,Yes,Fiber optic,Credit card (automatic),107.15,68,0.854,Segment Critique
+9282-IZGQK,Month-to-month,No,Fiber optic,Electronic check,85.0,1,0.136,Segment Sous Surveillance
+5348-CAGXB,Month-to-month,No,Fiber optic,Electronic check,89.55,12,0.392,Segment Instable
+0621-HJWXJ,Month-to-month,No,Fiber optic,Bank transfer (automatic),81.55,63,0.48,Segment Instable
+5844-QVTAT,One year,No,DSL,Mailed check,58.45,33,0.025,Segment Safe
+8905-IAZPF,One year,No,Fiber optic,Credit card (automatic),95.65,69,0.802,Segment Critique
+5394-MEITZ,Two year,Yes,DSL,Bank transfer (automatic),80.6,60,0.489,Segment Instable
+6859-QNXIQ,Two year,Yes,Fiber optic,Bank transfer (automatic),113.1,72,0.431,Segment Instable
+2782-LFZVW,Month-to-month,No,DSL,Mailed check,58.95,11,0.243,Segment Sous Surveillance
+2866-IKBTM,Month-to-month,No internet service,No,Mailed check,19.55,1,0.928,Segment Critique
+1342-JPNKI,Month-to-month,No,Fiber optic,Bank transfer (automatic),86.05,10,0.266,Segment Sous Surveillance
+2817-NTQDO,Month-to-month,Yes,DSL,Credit card (automatic),45.55,13,0.747,Segment Critique
+7129-AZJDE,One year,No,Fiber optic,Bank transfer (automatic),78.95,34,0.238,Segment Sous Surveillance
+6986-IJDHX,Month-to-month,No,Fiber optic,Mailed check,86.3,39,0.103,Segment Sous Surveillance
+2560-PPCHE,One year,Yes,Fiber optic,Bank transfer (automatic),105.05,65,0.205,Segment Sous Surveillance
+4676-MQUEA,One year,No,Fiber optic,Bank transfer (automatic),101.9,50,0.779,Segment Critique
+8138-EALND,Month-to-month,No internet service,No,Mailed check,19.75,15,0.014,Segment Safe
+3580-HYCSP,Two year,No,Fiber optic,Bank transfer (automatic),110.3,72,0.078,Segment Safe
+1352-HNSAW,Two year,Yes,Fiber optic,Bank transfer (automatic),115.6,72,0.081,Segment Safe
+2075-PUEPR,Two year,No internet service,No,Bank transfer (automatic),19.35,55,0.573,Segment Instable
+1982-FEBTD,Two year,No internet service,No,Credit card (automatic),25.6,23,0.374,Segment Instable
+5301-GAUUY,Month-to-month,No,Fiber optic,Bank transfer (automatic),80.35,32,0.027,Segment Safe
+5791-KAJFD,One year,No,DSL,Bank transfer (automatic),68.75,56,0.838,Segment Critique
+2654-VBVPB,Month-to-month,No internet service,No,Bank transfer (automatic),19.9,1,0.814,Segment Critique
+1154-HYWWO,One year,Yes,DSL,Mailed check,70.6,38,0.757,Segment Critique
+2501-XWWTZ,Month-to-month,No,Fiber optic,Electronic check,70.2,11,0.311,Segment Sous Surveillance
+3716-UVSPD,Month-to-month,Yes,DSL,Electronic check,49.3,1,0.718,Segment Critique
+6815-ABQFQ,One year,Yes,Fiber optic,Electronic check,107.25,56,0.348,Segment Sous Surveillance
+7343-EOBEU,Month-to-month,No internet service,No,Mailed check,23.6,3,0.531,Segment Instable
+3701-SFMUH,Month-to-month,No,DSL,Credit card (automatic),69.7,7,0.554,Segment Instable
+6103-LIANB,Two year,No,Fiber optic,Credit card (automatic),99.5,59,0.18,Segment Sous Surveillance
+7319-VENRZ,Month-to-month,Yes,DSL,Bank transfer (automatic),64.3,7,0.29,Segment Sous Surveillance
+5846-NEQVZ,Two year,Yes,DSL,Credit card (automatic),70.85,71,0.668,Segment Instable
+6967-QIQRV,One year,Yes,Fiber optic,Electronic check,101.9,15,0.831,Segment Critique
+5781-RFZRP,Two year,Yes,DSL,Credit card (automatic),73.5,71,0.839,Segment Critique
+0939-YAPAF,Month-to-month,No,Fiber optic,Electronic check,100.25,35,0.865,Segment Critique
+0308-IVGOK,One year,Yes,DSL,Credit card (automatic),40.4,11,0.707,Segment Critique
+7293-LSCDV,Two year,No internet service,No,Credit card (automatic),19.25,60,0.054,Segment Safe
+7025-WCBNE,Two year,Yes,DSL,Bank transfer (automatic),59.6,47,0.695,Segment Critique
+5756-JYOJT,One year,Yes,DSL,Credit card (automatic),64.9,11,0.783,Segment Critique
+4710-FDUIZ,One year,No,Fiber optic,Credit card (automatic),100.3,56,0.826,Segment Critique
+6030-REHUX,Month-to-month,Yes,Fiber optic,Electronic check,110.85,28,0.036,Segment Safe
+9548-LIGTA,Two year,Yes,DSL,Mailed check,81.05,61,0.569,Segment Instable
+5150-LJNSR,One year,No,Fiber optic,Bank transfer (automatic),98.05,31,0.494,Segment Instable
+8270-RKSAP,Month-to-month,No,Fiber optic,Electronic check,70.5,9,0.381,Segment Instable
+6522-YRBXD,Month-to-month,No,Fiber optic,Electronic check,94.55,35,0.037,Segment Safe
+2640-LYMOV,Month-to-month,No internet service,No,Mailed check,19.65,2,0.103,Segment Sous Surveillance
+1218-VKFPE,Month-to-month,No internet service,No,Mailed check,19.0,12,0.017,Segment Safe
+3627-FHKBK,Month-to-month,No,Fiber optic,Mailed check,75.3,1,0.763,Segment Critique
+2865-TCHJW,Month-to-month,No,Fiber optic,Electronic check,89.2,4,0.024,Segment Safe
+1423-BMPBQ,Month-to-month,No internet service,No,Mailed check,19.0,1,0.019,Segment Safe
+2393-DIVAI,Month-to-month,No internet service,No,Mailed check,20.0,3,0.133,Segment Sous Surveillance
+5192-EBGOV,Month-to-month,No,Fiber optic,Electronic check,85.7,1,0.123,Segment Sous Surveillance
+4568-KNYWR,Two year,No,DSL,Credit card (automatic),63.25,52,0.881,Segment Critique
+8752-IMQOS,One year,No internet service,No,Mailed check,20.1,5,0.259,Segment Sous Surveillance
+0742-LAFQK,Two year,No,Fiber optic,Electronic check,99.15,72,0.087,Segment Safe
+0795-LAFGP,Two year,Yes,DSL,Electronic check,90.4,71,0.685,Segment Instable
+0619-OLYUR,Two year,Yes,Fiber optic,Credit card (automatic),111.9,72,0.347,Segment Sous Surveillance
+5512-IDZEI,One year,No internet service,No,Electronic check,24.9,46,0.628,Segment Instable
+0459-SPZHJ,Two year,No,DSL,Credit card (automatic),83.5,63,0.448,Segment Instable
+0215-BQKGS,Month-to-month,No,Fiber optic,Credit card (automatic),84.3,30,0.842,Segment Critique
+9244-ZVAPM,Month-to-month,No,DSL,Mailed check,45.6,1,0.922,Segment Critique
+0719-SYFRB,Month-to-month,Yes,DSL,Mailed check,61.65,12,0.302,Segment Sous Surveillance
+8208-EUMTE,Two year,Yes,DSL,Mailed check,54.85,16,0.037,Segment Safe
+5172-MIGPM,Month-to-month,Yes,DSL,Mailed check,65.55,4,0.04,Segment Safe
+1710-RCXUS,One year,No,Fiber optic,Credit card (automatic),90.35,51,0.656,Segment Instable
+0374-FIUCA,Two year,No internet service,No,Credit card (automatic),20.4,65,0.094,Segment Sous Surveillance
+5839-SUYVZ,Month-to-month,Yes,Fiber optic,Credit card (automatic),74.55,16,0.222,Segment Sous Surveillance
+5173-ZXXXL,One year,No internet service,No,Mailed check,19.95,2,0.833,Segment Critique
+1096-ADRUX,One year,No,Fiber optic,Bank transfer (automatic),74.25,66,0.024,Segment Safe
+2001-MCUUW,Two year,Yes,Fiber optic,Electronic check,108.65,46,0.8,Segment Critique
+2731-GJRDG,One year,Yes,Fiber optic,Bank transfer (automatic),109.55,32,0.908,Segment Critique
+4723-BEGSG,Two year,Yes,DSL,Credit card (automatic),86.65,72,0.063,Segment Safe
+6516-NKQBO,Two year,Yes,DSL,Credit card (automatic),81.0,38,0.234,Segment Sous Surveillance
+8672-OAUPW,One year,Yes,DSL,Credit card (automatic),47.85,51,0.517,Segment Instable
+8207-DMRVL,Two year,Yes,Fiber optic,Bank transfer (automatic),114.55,72,0.299,Segment Sous Surveillance
+3419-SNJJD,Month-to-month,No,Fiber optic,Bank transfer (automatic),105.25,65,0.068,Segment Safe
+6543-CPZMK,Month-to-month,No,DSL,Electronic check,29.95,9,0.07,Segment Safe
+4765-OXPPD,Month-to-month,Yes,DSL,Mailed check,65.0,9,0.278,Segment Sous Surveillance
+2804-ETQDK,Two year,No internet service,No,Mailed check,20.55,66,0.137,Segment Sous Surveillance
+6689-VRRTK,One year,No,Fiber optic,Credit card (automatic),109.8,44,0.587,Segment Instable
+7138-GIRSH,Two year,Yes,DSL,Bank transfer (automatic),69.5,50,0.213,Segment Sous Surveillance
+9396-ZSFLL,Month-to-month,No,DSL,Mailed check,48.85,15,0.317,Segment Sous Surveillance
+6464-KEXXH,Month-to-month,No,DSL,Credit card (automatic),25.25,8,0.014,Segment Safe
+7134-MJPDY,One year,Yes,Fiber optic,Credit card (automatic),102.85,66,0.018,Segment Safe
+5240-CAOYT,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),87.55,57,0.96,Segment Critique
+4059-IIEBK,Month-to-month,No,Fiber optic,Bank transfer (automatic),78.55,7,0.582,Segment Instable
+4881-JVQOD,Month-to-month,No,DSL,Bank transfer (automatic),34.55,10,0.139,Segment Sous Surveillance
+0516-UXRMT,One year,No,Fiber optic,Electronic check,92.05,62,0.894,Segment Critique
+4851-BQDNX,One year,No,Fiber optic,Electronic check,85.05,40,0.756,Segment Critique
+5148-HKFIR,Two year,No internet service,No,Mailed check,19.7,20,0.01,Segment Safe
+1009-IRMNA,Month-to-month,No internet service,No,Bank transfer (automatic),20.0,7,0.035,Segment Safe
+3003-CMDUU,Month-to-month,Yes,Fiber optic,Electronic check,95.15,25,0.322,Segment Sous Surveillance
+5016-IBERQ,Month-to-month,No,Fiber optic,Electronic check,84.25,23,0.042,Segment Safe
+6797-UCJHZ,One year,No,Fiber optic,Credit card (automatic),104.6,66,0.93,Segment Critique
+2469-DTSGX,Two year,Yes,Fiber optic,Electronic check,111.65,72,0.704,Segment Critique
+4554-YGZIH,Month-to-month,No,Fiber optic,Credit card (automatic),90.05,49,0.928,Segment Critique
+5099-BAILX,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),110.75,43,0.919,Segment Critique
+9931-KGHOA,Month-to-month,No,DSL,Bank transfer (automatic),55.0,46,0.248,Segment Sous Surveillance
+1775-KWJKQ,Two year,Yes,DSL,Credit card (automatic),89.85,72,0.644,Segment Instable
+7665-VIGUD,One year,No internet service,No,Mailed check,20.35,10,0.054,Segment Safe
+9411-TPQQV,One year,Yes,DSL,Bank transfer (automatic),54.55,40,0.807,Segment Critique
+7207-RMRDB,Month-to-month,No,Fiber optic,Electronic check,105.5,65,0.338,Segment Sous Surveillance
+7954-MLBUN,Two year,Yes,Fiber optic,Bank transfer (automatic),99.45,31,0.081,Segment Safe
+2077-DDHJK,Two year,Yes,DSL,Credit card (automatic),70.9,68,0.081,Segment Safe
+4913-EHYUI,One year,No,Fiber optic,Bank transfer (automatic),104.55,56,0.3,Segment Sous Surveillance
+0195-IESCP,Month-to-month,No,Fiber optic,Electronic check,85.25,10,0.449,Segment Instable
+9574-BOSMD,Two year,No internet service,No,Bank transfer (automatic),25.4,68,0.038,Segment Safe
+4580-TMHJU,Month-to-month,No,DSL,Electronic check,56.15,43,0.816,Segment Critique
+0970-ETWGE,Month-to-month,No,Fiber optic,Electronic check,89.55,1,0.032,Segment Safe
+4908-XAXAY,One year,No,Fiber optic,Bank transfer (automatic),89.85,49,0.117,Segment Sous Surveillance
+8404-VLQFB,Month-to-month,No internet service,No,Electronic check,25.25,15,0.036,Segment Safe
+1626-ERCMM,Month-to-month,No,Fiber optic,Electronic check,94.55,20,0.552,Segment Instable
+0887-HJGAR,Month-to-month,No,DSL,Mailed check,45.7,1,0.457,Segment Instable
+2391-IPLOP,One year,Yes,DSL,Electronic check,69.65,50,0.936,Segment Critique
+5644-PDMZC,Month-to-month,No,Fiber optic,Electronic check,89.5,2,0.892,Segment Critique
+3509-GWQGF,Month-to-month,No,Fiber optic,Credit card (automatic),70.0,24,0.165,Segment Sous Surveillance
+9576-ANLXO,Month-to-month,No,Fiber optic,Bank transfer (automatic),69.55,3,0.611,Segment Instable
+2024-BASKD,Month-to-month,No,Fiber optic,Mailed check,74.6,1,0.487,Segment Instable
+5845-BZZIB,Two year,No internet service,No,Mailed check,20.1,35,0.326,Segment Sous Surveillance
+1140-UKVZG,Month-to-month,No internet service,No,Mailed check,24.8,17,0.795,Segment Critique
+4160-AMJTL,Month-to-month,No internet service,No,Electronic check,19.65,8,0.91,Segment Critique
+5183-SNMJQ,Month-to-month,Yes,Fiber optic,Credit card (automatic),95.1,10,0.018,Segment Safe
+8100-PNJMH,Two year,Yes,DSL,Credit card (automatic),88.85,68,0.1,Segment Sous Surveillance
+7838-LAZFO,One year,No,DSL,Bank transfer (automatic),78.8,45,0.271,Segment Sous Surveillance
+4464-JCOLN,One year,No internet service,No,Mailed check,19.85,2,0.632,Segment Instable
+2085-JVGAD,Month-to-month,No internet service,No,Bank transfer (automatic),20.35,37,0.02,Segment Safe
+5650-VDUDS,Month-to-month,No,DSL,Mailed check,24.25,4,0.317,Segment Sous Surveillance
+8095-WANWK,Month-to-month,No,DSL,Mailed check,45.25,10,0.167,Segment Sous Surveillance
+3030-ZKIWL,Month-to-month,No internet service,No,Mailed check,20.05,1,0.012,Segment Safe
+9565-FLVCG,Two year,No,DSL,Mailed check,69.55,65,0.862,Segment Critique
+8755-OGKNA,Two year,No internet service,No,Bank transfer (automatic),19.5,57,0.013,Segment Safe
+2800-VEQXM,Month-to-month,No,Fiber optic,Mailed check,74.75,3,0.212,Segment Sous Surveillance
+7538-GWHML,Month-to-month,No,Fiber optic,Electronic check,69.65,2,0.599,Segment Instable
+5533-RJFTJ,Month-to-month,No,DSL,Bank transfer (automatic),30.2,49,0.157,Segment Sous Surveillance
+3859-CVCET,Month-to-month,No,DSL,Mailed check,45.65,4,0.553,Segment Instable
+0214-JHPFW,Two year,Yes,DSL,Bank transfer (automatic),57.8,70,0.309,Segment Sous Surveillance
+5642-MHDQT,One year,No internet service,No,Bank transfer (automatic),19.85,53,0.709,Segment Critique
+3088-FVYWK,Two year,No internet service,No,Credit card (automatic),25.55,53,0.227,Segment Sous Surveillance
+3276-HDUEG,Month-to-month,No,Fiber optic,Mailed check,75.05,1,0.218,Segment Sous Surveillance
+9092-GDZKO,Month-to-month,No internet service,No,Credit card (automatic),24.85,22,0.14,Segment Sous Surveillance
+0823-HSCDJ,Month-to-month,No,DSL,Electronic check,49.15,52,0.769,Segment Critique
+3729-OWRVL,Two year,Yes,Fiber optic,Electronic check,110.35,65,0.08,Segment Safe
+2324-AALNO,One year,No internet service,No,Bank transfer (automatic),24.55,48,0.071,Segment Safe
+0822-GAVAP,Month-to-month,No,DSL,Electronic check,34.7,2,0.395,Segment Instable
+5760-IFJOZ,Month-to-month,No,Fiber optic,Mailed check,107.95,3,0.716,Segment Critique
+2826-UWHIS,Month-to-month,No,Fiber optic,Bank transfer (automatic),81.4,45,0.369,Segment Sous Surveillance
+1448-PWKYE,Month-to-month,No,Fiber optic,Electronic check,80.0,1,0.035,Segment Safe
+7501-IWUNG,Two year,Yes,DSL,Bank transfer (automatic),73.8,61,0.242,Segment Sous Surveillance
+4957-TREIR,Month-to-month,Yes,DSL,Credit card (automatic),64.4,3,0.235,Segment Sous Surveillance
+7251-LJBQN,One year,Yes,Fiber optic,Credit card (automatic),103.75,40,0.469,Segment Instable
+8040-MNRTF,Month-to-month,No,Fiber optic,Mailed check,71.1,1,0.756,Segment Critique
+1536-HBSWP,Month-to-month,Yes,DSL,Electronic check,49.9,1,0.811,Segment Critique
+5313-FPXWG,One year,No internet service,No,Bank transfer (automatic),24.6,51,0.622,Segment Instable
+0067-DKWBL,Month-to-month,No,DSL,Electronic check,49.25,2,0.014,Segment Safe
+0946-FKYTX,One year,No,DSL,Mailed check,30.1,52,0.678,Segment Instable
+5076-YVXCM,Month-to-month,No,Fiber optic,Bank transfer (automatic),83.4,51,0.558,Segment Instable
+8262-COGGB,Month-to-month,No internet service,No,Mailed check,20.45,1,0.182,Segment Sous Surveillance
+6663-JOCQO,One year,Yes,DSL,Bank transfer (automatic),75.25,31,0.126,Segment Sous Surveillance
+9620-QJREV,One year,No internet service,No,Credit card (automatic),20.55,47,0.16,Segment Sous Surveillance
+2276-YDAVZ,Month-to-month,No,Fiber optic,Credit card (automatic),75.1,3,0.883,Segment Critique
+2682-KEVRP,One year,No internet service,No,Mailed check,20.05,22,0.03,Segment Safe
+2480-JZOSN,Month-to-month,No internet service,No,Mailed check,20.65,1,0.341,Segment Sous Surveillance
+0078-XZMHT,Two year,Yes,DSL,Bank transfer (automatic),85.15,72,0.063,Segment Safe
+5896-NPFWW,Month-to-month,No,DSL,Electronic check,50.15,3,0.217,Segment Sous Surveillance
+9978-HYCIN,One year,No,Fiber optic,Bank transfer (automatic),84.95,47,0.053,Segment Safe
+8338-QIUNR,Two year,Yes,DSL,Credit card (automatic),66.5,72,0.518,Segment Instable
+1525-LNLOJ,Two year,No,DSL,Bank transfer (automatic),63.3,66,0.673,Segment Instable
+9450-TRJUU,Month-to-month,No,Fiber optic,Electronic check,83.15,35,0.24,Segment Sous Surveillance
+1766-GKNMI,Month-to-month,No,Fiber optic,Electronic check,84.9,29,0.111,Segment Sous Surveillance
+6942-LBFDP,Month-to-month,No internet service,No,Mailed check,20.55,2,0.059,Segment Safe
+1456-TWCGB,Month-to-month,No,DSL,Mailed check,49.25,4,0.322,Segment Sous Surveillance
+7133-VBDCG,Month-to-month,No,Fiber optic,Bank transfer (automatic),79.85,25,0.065,Segment Safe
+7596-ZYWBB,Two year,Yes,DSL,Mailed check,59.6,65,0.38,Segment Instable
+8329-UTMVM,One year,Yes,Fiber optic,Bank transfer (automatic),104.65,27,0.724,Segment Critique
+3014-WJKSM,Month-to-month,No,Fiber optic,Credit card (automatic),75.3,29,0.016,Segment Safe
+3347-YJZZE,Month-to-month,No,DSL,Credit card (automatic),80.1,29,0.046,Segment Safe
+1029-QFBEN,Month-to-month,No internet service,No,Mailed check,19.55,1,0.926,Segment Critique
+7929-DMBCV,Month-to-month,Yes,Fiber optic,Mailed check,81.0,20,0.81,Segment Critique
+9661-JALZV,Two year,No internet service,No,Credit card (automatic),24.7,58,0.738,Segment Critique
+5433-KYGHE,Month-to-month,Yes,Fiber optic,Mailed check,86.0,14,0.89,Segment Critique
+4312-KFRXN,Two year,No internet service,No,Mailed check,25.4,72,0.629,Segment Instable
+5575-TPIZQ,Month-to-month,No,Fiber optic,Credit card (automatic),89.15,46,0.256,Segment Sous Surveillance
+0114-IGABW,Two year,Yes,DSL,Bank transfer (automatic),58.25,71,0.431,Segment Instable
+9944-AEXBM,Month-to-month,No,Fiber optic,Bank transfer (automatic),85.65,32,0.483,Segment Instable
+1853-ARAAQ,Month-to-month,No,DSL,Credit card (automatic),50.35,26,0.776,Segment Critique
+6952-OMNWB,Month-to-month,No,Fiber optic,Credit card (automatic),80.35,68,0.064,Segment Safe
+4697-LUPSU,One year,No internet service,No,Mailed check,20.2,2,0.04,Segment Safe
+8434-VGEQQ,Two year,No internet service,No,Credit card (automatic),20.55,61,0.029,Segment Safe
+4952-YSOGZ,Month-to-month,No,Fiber optic,Electronic check,85.95,4,0.077,Segment Safe
+1589-AGTLK,Month-to-month,No,DSL,Electronic check,45.35,3,0.812,Segment Critique
+5244-IRFIH,Month-to-month,No,Fiber optic,Electronic check,94.5,33,0.094,Segment Sous Surveillance
+6549-YMFAW,Month-to-month,No internet service,No,Mailed check,21.25,9,0.632,Segment Instable
+4950-HKQTE,Two year,No internet service,No,Mailed check,26.25,22,0.758,Segment Critique
+6786-OBWQR,Month-to-month,No,Fiber optic,Electronic check,80.85,5,0.065,Segment Safe
+2684-EIWEO,Month-to-month,No,Fiber optic,Credit card (automatic),91.7,30,0.887,Segment Critique
+2753-JMMCV,Two year,Yes,DSL,Credit card (automatic),74.2,65,0.558,Segment Instable
+6439-GTPCA,Month-to-month,Yes,Fiber optic,Electronic check,87.25,45,0.381,Segment Instable
+6621-YOBKI,Month-to-month,No internet service,No,Mailed check,20.35,5,0.518,Segment Instable
+1216-JWVUX,Month-to-month,No,Fiber optic,Electronic check,75.5,25,0.044,Segment Safe
+7564-GHCVB,Two year,No,Fiber optic,Bank transfer (automatic),79.05,72,0.939,Segment Critique
+1173-NOEYG,Month-to-month,No,Fiber optic,Bank transfer (automatic),90.15,27,0.784,Segment Critique
+7595-EHCDL,Month-to-month,No,DSL,Credit card (automatic),50.6,32,0.791,Segment Critique
+6647-ZEDXT,One year,Yes,Fiber optic,Credit card (automatic),110.45,30,0.112,Segment Sous Surveillance
+2521-NPUZR,Two year,Yes,Fiber optic,Credit card (automatic),101.0,70,0.417,Segment Instable
+1307-TVUFB,Month-to-month,No,Fiber optic,Bank transfer (automatic),79.35,42,0.044,Segment Safe
+7503-MIOGA,Two year,Yes,DSL,Bank transfer (automatic),89.85,72,0.07,Segment Safe
+4381-MHQDC,Two year,Yes,DSL,Mailed check,65.0,47,0.928,Segment Critique
+6923-JHPMP,Month-to-month,No,Fiber optic,Electronic check,80.45,2,0.481,Segment Instable
+5138-WVKYJ,Month-to-month,No,Fiber optic,Electronic check,98.55,10,0.591,Segment Instable
+4018-PPNDW,Two year,No internet service,No,Mailed check,24.1,61,0.841,Segment Critique
+1635-FJFCC,Month-to-month,No,DSL,Credit card (automatic),44.05,5,0.511,Segment Instable
+2499-AJYUA,Two year,Yes,Fiber optic,Credit card (automatic),110.8,72,0.301,Segment Sous Surveillance
+6919-ELBGL,Two year,Yes,Fiber optic,Bank transfer (automatic),114.95,72,0.896,Segment Critique
+3966-HRMZA,Month-to-month,No,Fiber optic,Mailed check,75.05,3,0.008,Segment Safe
+6425-JWTDV,Two year,No internet service,No,Mailed check,19.25,48,0.05,Segment Safe
+8405-IGQFX,One year,Yes,Fiber optic,Credit card (automatic),90.05,63,0.928,Segment Critique
+8224-IVVPA,Month-to-month,No,DSL,Mailed check,56.7,27,0.066,Segment Safe
+9477-LGWQI,Two year,No,DSL,Credit card (automatic),80.15,70,0.033,Segment Safe
+1410-RSCMR,Month-to-month,Yes,DSL,Credit card (automatic),71.35,7,0.065,Segment Safe
+3115-CZMZD,Two year,No internet service,No,Mailed check,20.25,0,0.488,Segment Instable
+0139-IVFJG,Month-to-month,No,Fiber optic,Electronic check,90.35,2,0.09,Segment Sous Surveillance
+6683-VLCTZ,Month-to-month,No,Fiber optic,Electronic check,98.55,20,0.088,Segment Sous Surveillance
+5730-DBDSI,Two year,No internet service,No,Bank transfer (automatic),19.7,66,0.651,Segment Instable
+0030-FNXPP,Month-to-month,No internet service,No,Mailed check,19.85,3,0.192,Segment Sous Surveillance
+2189-WWOEW,Month-to-month,No,Fiber optic,Bank transfer (automatic),85.9,15,0.696,Segment Critique
+5684-FJVYR,Two year,Yes,Fiber optic,Bank transfer (automatic),90.35,72,0.085,Segment Safe
+4013-GUXND,Month-to-month,No internet service,No,Mailed check,20.8,1,0.727,Segment Critique
+1894-IGFSG,Month-to-month,No,Fiber optic,Electronic check,89.25,22,0.065,Segment Safe
+7379-POKDZ,Month-to-month,No,Fiber optic,Electronic check,70.3,3,0.936,Segment Critique
+1266-NZYUI,Two year,Yes,DSL,Bank transfer (automatic),66.85,72,0.607,Segment Instable
+7969-FFOWG,Two year,No internet service,No,Mailed check,19.9,65,0.763,Segment Critique
+4718-DHSMV,Month-to-month,No,DSL,Mailed check,35.8,11,0.587,Segment Instable
+5175-WLYXL,Month-to-month,No,Fiber optic,Mailed check,78.85,22,0.594,Segment Instable
+7817-OMJNA,One year,No internet service,No,Bank transfer (automatic),20.4,14,0.093,Segment Sous Surveillance
+8728-SKJLR,Month-to-month,Yes,Fiber optic,Electronic check,74.25,41,0.129,Segment Sous Surveillance
+3137-NYQQI,One year,No,DSL,Mailed check,64.8,17,0.03,Segment Safe
+7706-DZNKK,Month-to-month,No internet service,No,Credit card (automatic),20.45,11,0.739,Segment Critique
+0236-HFWSV,Month-to-month,No,Fiber optic,Electronic check,93.35,15,0.926,Segment Critique
+3900-AQPHZ,Month-to-month,No internet service,No,Mailed check,19.9,1,0.178,Segment Sous Surveillance
+5842-POCOP,Month-to-month,No,Fiber optic,Mailed check,88.9,5,0.633,Segment Instable
+2037-XJFUP,One year,No,Fiber optic,Electronic check,95.8,33,0.863,Segment Critique
+8823-RLPWL,Two year,No,Fiber optic,Credit card (automatic),110.65,72,0.767,Segment Critique
+9505-SQFSW,Month-to-month,No,DSL,Mailed check,40.3,3,0.557,Segment Instable
+7314-OXENN,Month-to-month,No,Fiber optic,Electronic check,82.0,2,0.236,Segment Sous Surveillance
+3758-CKOQL,One year,Yes,Fiber optic,Credit card (automatic),107.0,59,0.101,Segment Sous Surveillance
+0322-CHQRU,Month-to-month,No,DSL,Electronic check,45.35,2,0.047,Segment Safe
+5676-CFLYY,Two year,Yes,DSL,Credit card (automatic),73.35,71,0.114,Segment Sous Surveillance
+7521-AFHAB,Month-to-month,No,DSL,Mailed check,44.8,5,0.059,Segment Safe
+0285-INHLN,Month-to-month,No,DSL,Credit card (automatic),54.75,27,0.054,Segment Safe
+4678-DVQEO,Month-to-month,Yes,DSL,Electronic check,52.2,1,0.688,Segment Critique
+5125-CNDSP,One year,Yes,DSL,Bank transfer (automatic),40.6,63,0.059,Segment Safe
+0691-IFBQW,One year,No,Fiber optic,Electronic check,110.0,46,0.055,Segment Safe
+4992-LTJNE,Two year,No,DSL,Bank transfer (automatic),55.3,72,0.569,Segment Instable
+2202-OUTMO,Month-to-month,Yes,DSL,Bank transfer (automatic),60.85,34,0.345,Segment Sous Surveillance
+0810-BDHAW,One year,No,DSL,Electronic check,78.4,24,0.908,Segment Critique
+0229-LFJAF,Two year,Yes,DSL,Bank transfer (automatic),69.65,72,0.316,Segment Sous Surveillance
+7131-ZQZNK,Two year,Yes,DSL,Credit card (automatic),59.85,60,0.172,Segment Sous Surveillance
+3442-ZHHCC,One year,No,DSL,Credit card (automatic),76.9,68,0.178,Segment Sous Surveillance
+5726-CVNYA,Two year,No internet service,No,Mailed check,19.85,8,0.172,Segment Sous Surveillance
+9871-ELEYA,Two year,Yes,DSL,Credit card (automatic),67.65,34,0.01,Segment Safe
+4257-GAESD,Month-to-month,No,DSL,Credit card (automatic),45.0,6,0.854,Segment Critique
+5173-WXOQV,Month-to-month,Yes,DSL,Mailed check,64.2,2,0.049,Segment Safe
+2040-OBMLJ,One year,Yes,Fiber optic,Credit card (automatic),81.7,31,0.164,Segment Sous Surveillance
+6286-ZHAOK,Month-to-month,No internet service,No,Bank transfer (automatic),25.55,20,0.665,Segment Instable
+3807-XHCJH,Month-to-month,No internet service,No,Electronic check,20.0,1,0.686,Segment Instable
+3009-JWMPU,One year,No,Fiber optic,Electronic check,96.75,62,0.524,Segment Instable
+5671-RQRLP,Two year,No,Fiber optic,Credit card (automatic),75.65,70,0.047,Segment Safe
+1450-GALXR,Month-to-month,Yes,Fiber optic,Electronic check,98.5,10,0.683,Segment Instable
+8859-AXJZP,Two year,No internet service,No,Mailed check,23.8,39,0.008,Segment Safe
+3174-AKMAS,Two year,Yes,DSL,Credit card (automatic),64.2,46,0.183,Segment Sous Surveillance
+3138-BKYAV,Month-to-month,No,Fiber optic,Electronic check,85.35,6,0.089,Segment Sous Surveillance
+9926-PJHDQ,Two year,No,DSL,Bank transfer (automatic),76.8,72,0.012,Segment Safe
+7382-DFJTU,Month-to-month,Yes,DSL,Credit card (automatic),55.2,18,0.612,Segment Instable
+2798-NYLMZ,Two year,Yes,Fiber optic,Credit card (automatic),108.55,71,0.363,Segment Sous Surveillance
+4289-DTDKW,Month-to-month,No,Fiber optic,Electronic check,101.3,40,0.151,Segment Sous Surveillance
+1820-TQVEV,Month-to-month,No,Fiber optic,Electronic check,69.55,1,0.572,Segment Instable
+2239-JALAW,One year,No,Fiber optic,Bank transfer (automatic),103.25,58,0.463,Segment Instable
+4853-RULSV,Two year,Yes,Fiber optic,Credit card (automatic),104.0,70,0.377,Segment Instable
+8098-TDCBU,Two year,No internet service,No,Electronic check,25.25,42,0.066,Segment Safe
+3551-GAEGL,One year,No,DSL,Bank transfer (automatic),30.4,34,0.946,Segment Critique
+4785-NKHCX,Month-to-month,No internet service,No,Bank transfer (automatic),20.05,5,0.901,Segment Critique
+3196-NVXLZ,Month-to-month,No,Fiber optic,Mailed check,84.6,25,0.066,Segment Safe
+6275-YDUVO,Month-to-month,No,Fiber optic,Mailed check,86.2,2,0.911,Segment Critique
+0036-IHMOT,One year,Yes,Fiber optic,Bank transfer (automatic),103.7,55,0.768,Segment Critique
+0115-TFERT,Month-to-month,Yes,Fiber optic,Electronic check,111.2,21,0.777,Segment Critique
+4178-EGMON,Two year,Yes,Fiber optic,Credit card (automatic),88.0,70,0.039,Segment Safe
+4220-TINQT,Month-to-month,Yes,Fiber optic,Electronic check,106.35,61,0.44,Segment Instable
+5318-YKDPV,Two year,Yes,DSL,Credit card (automatic),79.15,43,0.687,Segment Critique
+7975-TZMLR,One year,No,Fiber optic,Electronic check,103.1,47,0.209,Segment Sous Surveillance
+0295-QVKPB,Month-to-month,Yes,DSL,Credit card (automatic),63.95,5,0.157,Segment Sous Surveillance
+4335-BSMJS,Two year,No internet service,No,Credit card (automatic),25.8,62,0.008,Segment Safe
+2311-QYMUQ,Month-to-month,No,Fiber optic,Credit card (automatic),89.45,16,0.242,Segment Sous Surveillance
+3643-AHCFP,Month-to-month,No,Fiber optic,Bank transfer (automatic),95.6,7,0.721,Segment Critique
+9146-JRIOX,Month-to-month,No internet service,No,Mailed check,25.55,14,0.048,Segment Safe
+3104-OWCGK,One year,No,Fiber optic,Electronic check,90.95,60,0.887,Segment Critique
+5337-IIWKZ,Month-to-month,Yes,DSL,Electronic check,44.85,34,0.684,Segment Instable
+9101-BWFSS,One year,Yes,Fiber optic,Electronic check,108.55,50,0.829,Segment Critique
+9650-VBUOG,Two year,No internet service,No,Credit card (automatic),25.05,38,0.508,Segment Instable
+3487-EARAT,One year,Yes,DSL,Credit card (automatic),74.1,70,0.102,Segment Sous Surveillance
+2672-TGEFF,Month-to-month,No,Fiber optic,Electronic check,88.8,37,0.837,Segment Critique
+9231-ZJYAM,Month-to-month,No,Fiber optic,Electronic check,78.85,4,0.644,Segment Instable
+4250-WAROZ,Month-to-month,No,Fiber optic,Electronic check,93.25,60,0.133,Segment Sous Surveillance
+8184-WMOFI,One year,Yes,DSL,Credit card (automatic),71.4,62,0.104,Segment Sous Surveillance
+6982-SSHFK,Month-to-month,No,DSL,Mailed check,44.4,1,0.02,Segment Safe
+6092-QZVPP,Month-to-month,Yes,DSL,Credit card (automatic),79.2,36,0.061,Segment Safe
+4625-LAMOB,Two year,No internet service,No,Credit card (automatic),20.4,44,0.82,Segment Critique
+0727-BMPLR,One year,No,Fiber optic,Electronic check,100.0,55,0.084,Segment Safe
+0392-BZIUW,Two year,No,Fiber optic,Credit card (automatic),105.0,72,0.101,Segment Sous Surveillance
+1038-ZAGBI,One year,No internet service,No,Bank transfer (automatic),19.8,12,0.52,Segment Instable
+6549-NNDYT,Month-to-month,No,DSL,Bank transfer (automatic),30.85,13,0.039,Segment Safe
+3027-ZTDHO,Month-to-month,No,Fiber optic,Electronic check,89.9,1,0.608,Segment Instable
+0422-OHQHQ,One year,No internet service,No,Mailed check,20.55,15,0.046,Segment Safe
+6916-HIJSE,Two year,Yes,DSL,Bank transfer (automatic),84.85,65,0.2,Segment Sous Surveillance
+2316-ESMLS,One year,Yes,DSL,Credit card (automatic),33.15,12,0.83,Segment Critique
+9778-OGKQZ,Two year,Yes,DSL,Credit card (automatic),92.0,72,0.078,Segment Safe
+7408-OFWXJ,Two year,Yes,DSL,Credit card (automatic),89.8,72,0.16,Segment Sous Surveillance
+6007-TCTST,Two year,Yes,Fiber optic,Bank transfer (automatic),115.8,72,0.024,Segment Safe
+2252-NKNSI,Two year,Yes,DSL,Mailed check,85.15,52,0.162,Segment Sous Surveillance
+8713-IGZSO,Month-to-month,No internet service,No,Mailed check,24.85,2,0.708,Segment Critique
+7905-TVXTA,Month-to-month,Yes,DSL,Electronic check,64.35,5,0.047,Segment Safe
+7695-PKLCZ,Two year,No internet service,No,Credit card (automatic),20.5,68,0.736,Segment Critique
+2382-BCKQJ,One year,No,Fiber optic,Electronic check,100.15,62,0.582,Segment Instable
+8374-UULRV,Two year,Yes,DSL,Credit card (automatic),86.05,72,0.703,Segment Critique
+2207-NHRJK,Month-to-month,No,DSL,Electronic check,50.8,1,0.348,Segment Sous Surveillance
+3224-DFQNQ,One year,Yes,Fiber optic,Electronic check,89.0,66,0.442,Segment Instable
+5275-PMFUT,Two year,Yes,DSL,Credit card (automatic),64.8,72,0.091,Segment Sous Surveillance
+4795-UXVCJ,One year,No internet service,No,Credit card (automatic),19.8,26,0.235,Segment Sous Surveillance
+9777-IQHWP,Two year,No,Fiber optic,Bank transfer (automatic),93.4,64,0.081,Segment Safe
+0947-MUGVO,Month-to-month,No,Fiber optic,Electronic check,73.65,20,0.063,Segment Safe
+9944-HKVVB,Month-to-month,No,Fiber optic,Electronic check,95.1,3,0.701,Segment Critique
+4124-MMETB,Month-to-month,No,Fiber optic,Credit card (automatic),94.65,22,0.665,Segment Instable
+3671-SHRSP,Month-to-month,Yes,Fiber optic,Mailed check,80.6,4,0.608,Segment Instable
+0979-MOZQI,Two year,Yes,DSL,Bank transfer (automatic),39.0,62,0.68,Segment Instable
+2732-ISEZX,Month-to-month,No internet service,No,Mailed check,20.5,5,0.088,Segment Sous Surveillance
+3313-QKNKB,One year,No,Fiber optic,Electronic check,85.55,59,0.131,Segment Sous Surveillance
+0323-XWWTN,Two year,No internet service,No,Mailed check,26.4,3,0.012,Segment Safe
+1937-OTUKY,Two year,Yes,Fiber optic,Bank transfer (automatic),98.2,72,0.533,Segment Instable
+1573-LGXBA,One year,No,Fiber optic,Credit card (automatic),97.55,57,0.537,Segment Instable
+1764-VUUMT,Two year,No internet service,No,Credit card (automatic),19.95,66,0.938,Segment Critique
+5073-WXOYN,Month-to-month,No,DSL,Electronic check,50.8,60,0.496,Segment Instable
+4713-ZBURT,Two year,No,Fiber optic,Bank transfer (automatic),99.7,45,0.451,Segment Instable
+3050-GBUSH,Month-to-month,No,DSL,Credit card (automatic),34.8,3,0.401,Segment Instable
+0207-MDKNV,Month-to-month,Yes,Fiber optic,Electronic check,105.1,15,0.402,Segment Instable
+7876-AEHIG,One year,Yes,DSL,Bank transfer (automatic),60.15,51,0.412,Segment Instable
+7945-HLKEA,One year,Yes,DSL,Electronic check,64.75,60,0.474,Segment Instable
+9342-VNIMQ,Month-to-month,No,DSL,Bank transfer (automatic),54.65,33,0.058,Segment Safe
+9851-KIELU,Month-to-month,Yes,Fiber optic,Electronic check,110.1,10,0.838,Segment Critique
+3523-BRGUW,One year,No internet service,No,Credit card (automatic),19.3,26,0.824,Segment Critique
+3908-BLSYF,Month-to-month,No,Fiber optic,Electronic check,83.9,6,0.838,Segment Critique
+3199-NPKCN,One year,Yes,Fiber optic,Electronic check,111.25,67,0.07,Segment Safe
+5170-PTRKA,One year,Yes,DSL,Credit card (automatic),35.8,49,0.636,Segment Instable
+4661-NJEUX,Month-to-month,No internet service,No,Mailed check,20.05,1,0.139,Segment Sous Surveillance
+2123-AGEEN,Month-to-month,No,Fiber optic,Electronic check,84.35,7,0.167,Segment Sous Surveillance
+1258-YMZNM,One year,No,Fiber optic,Bank transfer (automatic),110.5,27,0.682,Segment Instable
+0048-LUMLS,One year,No,Fiber optic,Credit card (automatic),91.2,37,0.658,Segment Instable
+7549-MYGPK,Month-to-month,No,Fiber optic,Electronic check,100.55,63,0.917,Segment Critique
+5898-IGSLP,Month-to-month,Yes,Fiber optic,Electronic check,89.3,31,0.426,Segment Instable
+3804-RVTGV,Month-to-month,No,Fiber optic,Bank transfer (automatic),103.85,50,0.238,Segment Sous Surveillance
+6259-WJQLC,Month-to-month,No,Fiber optic,Credit card (automatic),81.1,32,0.604,Segment Instable
+9227-LUNBG,Month-to-month,No,DSL,Electronic check,24.6,1,0.33,Segment Sous Surveillance
+7997-EASSD,One year,Yes,Fiber optic,Credit card (automatic),81.2,63,0.762,Segment Critique
+0730-KOAVE,Month-to-month,No,Fiber optic,Credit card (automatic),94.3,30,0.019,Segment Safe
+8975-SKGRX,Two year,Yes,Fiber optic,Bank transfer (automatic),116.1,71,0.649,Segment Instable
+0678-RLHVP,Two year,No,Fiber optic,Electronic check,105.55,53,0.018,Segment Safe
+4315-MURBD,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),98.9,12,0.838,Segment Critique
+2267-FPIMA,Month-to-month,No,Fiber optic,Credit card (automatic),94.4,50,0.335,Segment Sous Surveillance
+1051-GEJLJ,Month-to-month,No internet service,No,Mailed check,19.5,2,0.853,Segment Critique
+9734-YWGEX,Month-to-month,No,Fiber optic,Credit card (automatic),98.3,9,0.043,Segment Safe
+2719-BDAQO,Month-to-month,No,Fiber optic,Electronic check,93.85,17,0.224,Segment Sous Surveillance
+5285-MVEHD,One year,No,Fiber optic,Credit card (automatic),105.6,56,0.41,Segment Instable
+0379-DJQHR,Two year,No,DSL,Credit card (automatic),81.35,67,0.809,Segment Critique
+0781-LKXBR,Month-to-month,No,Fiber optic,Electronic check,100.5,9,0.049,Segment Safe
+5543-QDCRY,Month-to-month,No,DSL,Electronic check,56.4,4,0.71,Segment Critique
+0297-RBCSG,One year,Yes,DSL,Bank transfer (automatic),65.35,19,0.802,Segment Critique
+4694-PHWFW,Month-to-month,No internet service,No,Mailed check,19.95,8,0.287,Segment Sous Surveillance
+0835-JKADZ,Two year,Yes,Fiber optic,Electronic check,111.25,71,0.386,Segment Instable
+1907-UBQFC,Month-to-month,No,Fiber optic,Electronic check,72.85,10,0.256,Segment Sous Surveillance
+7508-SMHXL,Month-to-month,No,Fiber optic,Credit card (automatic),89.0,15,0.923,Segment Critique
+3865-YIOTT,One year,No,Fiber optic,Bank transfer (automatic),106.1,72,0.026,Segment Safe
+5993-BQHEA,One year,No internet service,No,Credit card (automatic),20.05,12,0.673,Segment Instable
+6024-RUGGH,Two year,No internet service,No,Bank transfer (automatic),25.2,72,0.773,Segment Critique
+6513-EECDB,Month-to-month,No,Fiber optic,Electronic check,73.55,1,0.203,Segment Sous Surveillance
+3956-CJUST,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.4,23,0.348,Segment Sous Surveillance
+4079-WWQQQ,Two year,Yes,DSL,Bank transfer (automatic),65.55,72,0.484,Segment Instable
+6103-BOCOU,Month-to-month,No,Fiber optic,Electronic check,80.7,26,0.259,Segment Sous Surveillance
+5149-TGWDZ,One year,Yes,Fiber optic,Mailed check,104.55,21,0.172,Segment Sous Surveillance
+7471-WNSUF,One year,No internet service,No,Bank transfer (automatic),24.15,60,0.78,Segment Critique
+8942-DBMHZ,Month-to-month,No internet service,No,Mailed check,20.45,12,0.778,Segment Critique
+4301-VVZKA,Month-to-month,No,Fiber optic,Electronic check,75.4,16,0.191,Segment Sous Surveillance
+9199-PWQVC,One year,No,DSL,Credit card (automatic),79.7,63,0.358,Segment Sous Surveillance
+4824-GUCBY,Month-to-month,No,Fiber optic,Electronic check,81.7,22,0.074,Segment Safe
+5393-HJZSM,Month-to-month,Yes,DSL,Bank transfer (automatic),76.3,32,0.732,Segment Critique
+7074-IEVOJ,Month-to-month,No,Fiber optic,Electronic check,79.4,3,0.047,Segment Safe
+9625-QSTYE,Month-to-month,No,Fiber optic,Electronic check,81.15,13,0.487,Segment Instable
+0862-PRCBS,Two year,Yes,Fiber optic,Credit card (automatic),103.75,68,0.624,Segment Instable
+8812-ZRHFP,One year,No,Fiber optic,Electronic check,86.45,30,0.489,Segment Instable
+5146-CBVOE,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.1,16,0.035,Segment Safe
+0454-OKRCT,Two year,Yes,Fiber optic,Bank transfer (automatic),80.6,33,0.108,Segment Sous Surveillance
+5787-KXGIY,Two year,No internet service,No,Credit card (automatic),19.3,72,0.2,Segment Sous Surveillance
+4750-ZRXIU,Month-to-month,No,Fiber optic,Electronic check,84.6,4,0.387,Segment Instable
+4198-VFOEA,One year,Yes,DSL,Mailed check,33.6,12,0.036,Segment Safe
+6630-UJZMY,Month-to-month,No,Fiber optic,Electronic check,83.25,4,0.562,Segment Instable
+5709-LVOEQ,Two year,No,DSL,Mailed check,80.85,0,0.661,Segment Instable
+6400-BWQKW,Month-to-month,No,Fiber optic,Electronic check,79.05,6,0.039,Segment Safe
+2692-AQCPF,One year,Yes,Fiber optic,Credit card (automatic),108.05,65,0.741,Segment Critique
+0347-UBKUZ,Month-to-month,No internet service,No,Mailed check,19.9,15,0.012,Segment Safe
+0835-DUUIQ,One year,No internet service,No,Bank transfer (automatic),21.05,24,0.929,Segment Critique
+0811-GSDTP,Month-to-month,No,DSL,Electronic check,30.15,13,0.052,Segment Safe
+7567-ECMCM,Month-to-month,No,Fiber optic,Credit card (automatic),79.85,24,0.237,Segment Sous Surveillance
+6115-ZTBFQ,Two year,Yes,DSL,Bank transfer (automatic),65.5,72,0.838,Segment Critique
+6353-BRMMA,Month-to-month,No,Fiber optic,Bank transfer (automatic),104.1,54,0.011,Segment Safe
+6680-WKXRZ,Month-to-month,No,Fiber optic,Bank transfer (automatic),74.4,3,0.601,Segment Instable
+6231-WFGFH,Month-to-month,No internet service,No,Mailed check,20.5,4,0.319,Segment Sous Surveillance
+9904-EHEVJ,Month-to-month,No,Fiber optic,Mailed check,91.35,32,0.899,Segment Critique
+7028-DVOIQ,Month-to-month,No,Fiber optic,Electronic check,99.05,35,0.839,Segment Critique
+6169-PPETC,Two year,No internet service,No,Bank transfer (automatic),20.5,35,0.753,Segment Critique
+4208-UFFGW,Month-to-month,No,DSL,Mailed check,44.95,2,0.747,Segment Critique
+8584-KMVXD,Month-to-month,No,Fiber optic,Electronic check,75.6,8,0.064,Segment Safe
+8467-WYNSR,Month-to-month,Yes,DSL,Mailed check,55.1,22,0.936,Segment Critique
+0851-DFJKB,Month-to-month,Yes,DSL,Electronic check,58.95,15,0.037,Segment Safe
+5382-SOYZL,Month-to-month,No,Fiber optic,Electronic check,95.1,22,0.852,Segment Critique
+9448-REEVD,Month-to-month,No,DSL,Credit card (automatic),44.7,1,0.017,Segment Safe
+3261-CQXOL,Two year,No internet service,No,Bank transfer (automatic),25.45,71,0.598,Segment Instable
+8388-FYNPZ,Month-to-month,No,DSL,Electronic check,56.75,4,0.796,Segment Critique
+4002-BQWPQ,Month-to-month,Yes,DSL,Bank transfer (automatic),81.75,25,0.86,Segment Critique
+5651-YLPRD,Month-to-month,No,Fiber optic,Electronic check,86.1,32,0.216,Segment Sous Surveillance
+2826-DXLQO,Month-to-month,No,DSL,Bank transfer (automatic),29.8,7,0.84,Segment Critique
+4378-BZYFP,One year,No internet service,No,Mailed check,20.5,17,0.077,Segment Safe
+9489-UTFKA,Month-to-month,No,DSL,Bank transfer (automatic),60.9,8,0.637,Segment Instable
+4849-PYRLQ,Two year,Yes,DSL,Bank transfer (automatic),73.25,56,0.237,Segment Sous Surveillance
+9117-SHLZX,Month-to-month,No,DSL,Mailed check,45.7,1,0.041,Segment Safe
+9889-TMAHG,Month-to-month,Yes,Fiber optic,Credit card (automatic),100.3,8,0.049,Segment Safe
+4541-RMRLG,Month-to-month,No internet service,No,Electronic check,19.25,7,0.808,Segment Critique
+7764-BDPEE,Month-to-month,No internet service,No,Mailed check,20.85,3,0.607,Segment Instable
+3429-IFLEM,Two year,Yes,DSL,Credit card (automatic),77.35,71,0.015,Segment Safe
+3158-MOERK,Month-to-month,No,Fiber optic,Electronic check,96.0,2,0.024,Segment Safe
+7294-TMAOP,Month-to-month,No,Fiber optic,Electronic check,90.55,1,0.035,Segment Safe
+5002-GCQFH,Month-to-month,No,Fiber optic,Bank transfer (automatic),93.85,49,0.376,Segment Instable
+0556-FJEGU,Two year,Yes,DSL,Bank transfer (automatic),70.1,58,0.423,Segment Instable
+8919-FYFQZ,Month-to-month,No,DSL,Electronic check,30.35,44,0.875,Segment Critique
+0604-THJFP,Two year,Yes,DSL,Credit card (automatic),75.95,59,0.072,Segment Safe
+2834-JRTUA,Two year,Yes,Fiber optic,Electronic check,108.05,71,0.344,Segment Sous Surveillance
+5875-YPQFJ,Month-to-month,No,Fiber optic,Electronic check,69.9,1,0.777,Segment Critique
+5879-SESNB,Month-to-month,No,Fiber optic,Electronic check,75.25,11,0.559,Segment Instable
+6646-QVXLR,One year,No,Fiber optic,Electronic check,103.75,62,0.517,Segment Instable
+6461-PPAXN,One year,Yes,DSL,Bank transfer (automatic),54.95,35,0.788,Segment Critique
+3318-ISQFQ,Month-to-month,No internet service,No,Bank transfer (automatic),19.5,20,0.591,Segment Instable
+1106-HRLKZ,Two year,No internet service,No,Mailed check,19.6,40,0.621,Segment Instable
+2483-XSSMZ,One year,No,DSL,Electronic check,47.85,39,0.486,Segment Instable
+8603-IJWDN,Month-to-month,No,Fiber optic,Electronic check,86.6,1,0.06,Segment Safe
+8165-ZJRNM,Two year,No internet service,No,Bank transfer (automatic),23.75,72,0.031,Segment Safe
+9369-XFEHK,Month-to-month,No,Fiber optic,Bank transfer (automatic),80.6,33,0.139,Segment Sous Surveillance
+2604-XVDAM,Month-to-month,No,DSL,Bank transfer (automatic),43.8,12,0.057,Segment Safe
+3717-OFRTN,Month-to-month,No internet service,No,Bank transfer (automatic),19.75,1,0.863,Segment Critique
+9046-JBFWA,Month-to-month,No internet service,No,Mailed check,19.15,27,0.445,Segment Instable
+3280-NMUVX,One year,No internet service,No,Credit card (automatic),19.6,34,0.602,Segment Instable
+1206-EHBDD,Two year,No,Fiber optic,Bank transfer (automatic),80.3,56,0.08,Segment Safe
+8361-LBRDI,Two year,No internet service,No,Credit card (automatic),24.35,58,0.05,Segment Safe
+4883-KCPZJ,Two year,No internet service,No,Credit card (automatic),25.25,22,0.386,Segment Instable
+9108-EQPNQ,Two year,No internet service,No,Credit card (automatic),26.1,10,0.765,Segment Critique
+7277-KAMWT,Two year,No internet service,No,Credit card (automatic),20.0,13,0.692,Segment Critique
+3842-IYKUE,Month-to-month,Yes,Fiber optic,Credit card (automatic),85.3,35,0.924,Segment Critique
+6641-XRPSU,Month-to-month,No,Fiber optic,Credit card (automatic),70.0,34,0.633,Segment Instable
+1374-DMZUI,Month-to-month,No,Fiber optic,Electronic check,94.3,4,0.641,Segment Instable
+2545-LXYVJ,Two year,No internet service,No,Bank transfer (automatic),20.7,72,0.049,Segment Safe
+3234-VKACU,Month-to-month,Yes,DSL,Electronic check,70.3,2,0.608,Segment Instable
+8357-EQXFO,Month-to-month,No,Fiber optic,Electronic check,95.35,7,0.569,Segment Instable
+1989-PRJHP,Month-to-month,No,Fiber optic,Electronic check,75.5,27,0.668,Segment Instable
+8120-JDCAM,Month-to-month,No,Fiber optic,Mailed check,69.55,4,0.266,Segment Sous Surveillance
+8917-FAEMR,Two year,No internet service,No,Mailed check,19.85,37,0.037,Segment Safe
+7047-YXDMZ,Month-to-month,No internet service,No,Mailed check,20.0,21,0.161,Segment Sous Surveillance
+2858-EIMXH,One year,No,Fiber optic,Credit card (automatic),95.85,53,0.614,Segment Instable
+9524-EGPJC,Month-to-month,Yes,Fiber optic,Electronic check,90.1,18,0.041,Segment Safe
+6993-OHLXR,Month-to-month,No,Fiber optic,Electronic check,68.95,2,0.805,Segment Critique
+8818-XYFCQ,Month-to-month,No,Fiber optic,Credit card (automatic),99.55,32,0.01,Segment Safe
+6419-ZTTLE,One year,No internet service,No,Electronic check,20.75,23,0.09,Segment Sous Surveillance
+0929-HYQEW,Month-to-month,No,DSL,Mailed check,50.15,3,0.616,Segment Instable
+6614-YOLAC,Two year,Yes,DSL,Mailed check,58.65,71,0.115,Segment Sous Surveillance
+7426-RHZGU,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),95.9,9,0.512,Segment Instable
+4065-JJAVA,Month-to-month,No,DSL,Electronic check,49.5,1,0.052,Segment Safe
+4695-VADHF,Month-to-month,No,DSL,Electronic check,57.45,18,0.363,Segment Sous Surveillance
+3863-IUBJR,One year,No,DSL,Credit card (automatic),53.65,12,0.186,Segment Sous Surveillance
+7649-SIJJF,Two year,Yes,DSL,Mailed check,80.1,71,0.172,Segment Sous Surveillance
+9361-YNQWJ,One year,No internet service,No,Bank transfer (automatic),24.4,64,0.242,Segment Sous Surveillance
+3748-FVMZZ,Month-to-month,Yes,DSL,Electronic check,40.05,4,0.441,Segment Instable
+9391-TTOYH,Month-to-month,No internet service,No,Mailed check,19.5,23,0.582,Segment Instable
+1452-XRSJV,Month-to-month,No,DSL,Credit card (automatic),51.05,39,0.04,Segment Safe
+3422-WJOYD,One year,Yes,DSL,Mailed check,54.35,28,0.013,Segment Safe
+8242-SOQUO,Month-to-month,No,Fiber optic,Electronic check,84.7,5,0.705,Segment Critique
+7460-ITWWP,Month-to-month,No,Fiber optic,Electronic check,86.1,45,0.315,Segment Sous Surveillance
+7147-AYBAA,Month-to-month,No,Fiber optic,Mailed check,70.35,37,0.591,Segment Instable
+7868-TMWMZ,Two year,Yes,Fiber optic,Bank transfer (automatic),110.0,60,0.026,Segment Safe
+4822-RVYBB,Month-to-month,No,Fiber optic,Electronic check,100.6,8,0.069,Segment Safe
+6732-FZUGP,One year,No,Fiber optic,Credit card (automatic),94.9,47,0.767,Segment Critique
+8436-BJUMM,Month-to-month,No,Fiber optic,Electronic check,83.75,26,0.275,Segment Sous Surveillance
+4184-TJFAN,Month-to-month,Yes,Fiber optic,Mailed check,88.3,3,0.238,Segment Sous Surveillance
+8329-GWVPJ,Month-to-month,No,Fiber optic,Bank transfer (automatic),69.75,50,0.035,Segment Safe
+1352-VHKAJ,Month-to-month,Yes,DSL,Bank transfer (automatic),71.6,27,0.019,Segment Safe
+4145-UQXUQ,Month-to-month,No,Fiber optic,Electronic check,92.1,8,0.43,Segment Instable
+2632-TACXW,Two year,No internet service,No,Bank transfer (automatic),23.65,62,0.548,Segment Instable
+8146-QQKZH,Two year,Yes,DSL,Bank transfer (automatic),81.85,71,0.883,Segment Critique
+1767-CJKBA,Two year,No internet service,No,Mailed check,25.1,66,0.546,Segment Instable
+6445-TNRXS,Two year,Yes,Fiber optic,Bank transfer (automatic),114.7,68,0.325,Segment Sous Surveillance
+4581-LNWUM,Month-to-month,No,DSL,Electronic check,49.15,13,0.03,Segment Safe
+4869-EPIUS,One year,No,Fiber optic,Electronic check,80.9,56,0.476,Segment Instable
+9948-YPTDG,Month-to-month,No,Fiber optic,Electronic check,79.45,38,0.283,Segment Sous Surveillance
+1236-WFCDV,Month-to-month,No,Fiber optic,Credit card (automatic),90.45,14,0.801,Segment Critique
+1915-OAKWD,One year,No internet service,No,Bank transfer (automatic),19.3,16,0.162,Segment Sous Surveillance
+7296-PIXQY,Month-to-month,No,Fiber optic,Electronic check,70.2,14,0.246,Segment Sous Surveillance
+4883-QICIH,Month-to-month,No,Fiber optic,Bank transfer (automatic),69.75,32,0.012,Segment Safe
+3354-OADJP,One year,Yes,DSL,Bank transfer (automatic),54.25,8,0.087,Segment Safe
+3524-WQDSG,Month-to-month,No,Fiber optic,Bank transfer (automatic),99.3,43,0.426,Segment Instable
+0810-DHDBD,One year,Yes,DSL,Credit card (automatic),74.0,52,0.092,Segment Sous Surveillance
+4026-SKKHW,Month-to-month,Yes,DSL,Mailed check,50.25,3,0.155,Segment Sous Surveillance
+2829-HYVZP,One year,No internet service,No,Mailed check,19.8,29,0.875,Segment Critique
+8329-IBCTI,Month-to-month,No internet service,No,Mailed check,19.65,1,0.522,Segment Instable
+1271-SJBGZ,Month-to-month,Yes,DSL,Electronic check,43.65,12,0.082,Segment Safe
+3845-JHAMY,Month-to-month,No,DSL,Credit card (automatic),35.5,16,0.067,Segment Safe
+7013-PSXHK,One year,Yes,DSL,Mailed check,80.75,40,0.156,Segment Sous Surveillance
+5669-SRAIP,Month-to-month,No,DSL,Electronic check,39.5,5,0.665,Segment Instable
+5981-ITEMU,Month-to-month,No,Fiber optic,Bank transfer (automatic),97.1,40,0.097,Segment Sous Surveillance
+3486-NPGST,One year,No internet service,No,Mailed check,19.55,36,0.024,Segment Safe
+6941-PMGEP,Month-to-month,No,Fiber optic,Electronic check,80.0,5,0.791,Segment Critique
+1624-WOIWJ,Month-to-month,No,Fiber optic,Mailed check,84.7,10,0.058,Segment Safe
+2074-GKOWZ,Month-to-month,No,Fiber optic,Bank transfer (automatic),89.55,2,0.783,Segment Critique
+0376-YMCJC,Month-to-month,Yes,Fiber optic,Electronic check,90.6,23,0.039,Segment Safe
+6100-FJZDG,One year,No internet service,No,Bank transfer (automatic),20.05,26,0.007,Segment Safe
+4829-ZLJTK,Two year,No,Fiber optic,Electronic check,112.4,72,0.754,Segment Critique
+1730-VFMWO,Month-to-month,Yes,DSL,Bank transfer (automatic),50.2,34,0.037,Segment Safe
+7143-BQIBA,Month-to-month,Yes,DSL,Bank transfer (automatic),62.25,10,0.45,Segment Instable
+3800-LYTRK,One year,Yes,DSL,Mailed check,55.7,14,0.753,Segment Critique
+0634-SZPQA,Month-to-month,No,Fiber optic,Bank transfer (automatic),90.05,23,0.553,Segment Instable
+9646-NMHXE,Two year,No internet service,No,Mailed check,19.65,47,0.856,Segment Critique
+7030-NJVDP,Month-to-month,Yes,Fiber optic,Electronic check,89.25,24,0.665,Segment Instable
+5536-RTPWK,Month-to-month,No,Fiber optic,Bank transfer (automatic),99.05,49,0.021,Segment Safe
+8883-GRDWQ,One year,Yes,DSL,Mailed check,54.0,20,0.04,Segment Safe
+6166-ILMNY,Month-to-month,No,Fiber optic,Bank transfer (automatic),69.75,2,0.367,Segment Sous Surveillance
+3097-NNSPB,Month-to-month,No,DSL,Credit card (automatic),49.05,2,0.466,Segment Instable
+7771-ZONAT,Two year,Yes,DSL,Bank transfer (automatic),56.75,22,0.414,Segment Instable
+0655-RBDUG,Month-to-month,No,Fiber optic,Bank transfer (automatic),98.05,7,0.708,Segment Critique
+2111-DWYHN,Month-to-month,No internet service,No,Mailed check,21.1,1,0.75,Segment Critique
+4194-WHFCB,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),96.65,59,0.414,Segment Instable
+4121-AGSIN,One year,No internet service,No,Credit card (automatic),24.5,58,0.144,Segment Sous Surveillance
+4361-BKAXE,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),114.5,41,0.175,Segment Sous Surveillance
+9845-PEEKO,Two year,No,Fiber optic,Credit card (automatic),79.2,59,0.648,Segment Instable
+0455-XFASS,Month-to-month,No,Fiber optic,Electronic check,69.55,3,0.092,Segment Sous Surveillance
+0301-KOBTQ,Two year,No internet service,No,Bank transfer (automatic),20.05,32,0.248,Segment Sous Surveillance
+1751-NCDLI,Month-to-month,No,Fiber optic,Electronic check,98.85,46,0.134,Segment Sous Surveillance
+4367-NUYAO,Two year,No internet service,No,Mailed check,25.75,0,0.83,Segment Critique
+9878-TNQGW,Month-to-month,No,Fiber optic,Electronic check,80.95,2,0.922,Segment Critique
+9170-ARBTB,One year,No internet service,No,Credit card (automatic),19.6,52,0.671,Segment Instable
+4441-NIHPT,Month-to-month,No,Fiber optic,Electronic check,74.3,13,0.622,Segment Instable
+8999-BOHSE,Month-to-month,No,Fiber optic,Bank transfer (automatic),89.7,11,0.008,Segment Safe
+7241-AJHFS,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),87.65,32,0.019,Segment Safe
+7029-RPUAV,Month-to-month,No,Fiber optic,Credit card (automatic),100.45,17,0.855,Segment Critique
+4546-FOKWR,Month-to-month,No,Fiber optic,Credit card (automatic),74.75,16,0.115,Segment Sous Surveillance
+9036-CSKBW,One year,No,Fiber optic,Bank transfer (automatic),107.45,51,0.962,Segment Critique
+5832-TRLPB,One year,Yes,DSL,Bank transfer (automatic),75.35,29,0.349,Segment Sous Surveillance
+8590-YFFQO,Two year,Yes,DSL,Credit card (automatic),64.95,70,0.847,Segment Critique
+8659-IOOPU,Two year,Yes,Fiber optic,Electronic check,100.45,71,0.766,Segment Critique
+1338-CECEE,One year,No,DSL,Bank transfer (automatic),68.5,41,0.701,Segment Critique
+7439-DKZTW,Month-to-month,No,Fiber optic,Electronic check,80.55,1,0.314,Segment Sous Surveillance
+4646-QZXTF,Month-to-month,Yes,DSL,Bank transfer (automatic),81.25,7,0.046,Segment Safe
+4607-CHPCA,One year,No,Fiber optic,Electronic check,90.4,25,0.599,Segment Instable
+9742-XOKTS,One year,Yes,Fiber optic,Electronic check,89.55,67,0.13,Segment Sous Surveillance
+6921-OZMFH,Month-to-month,Yes,DSL,Mailed check,55.7,5,0.041,Segment Safe
+9578-FOMUK,Month-to-month,No internet service,No,Electronic check,24.8,15,0.047,Segment Safe
+4712-UYOOI,Month-to-month,No internet service,No,Electronic check,20.0,20,0.659,Segment Instable
+8824-RWFXJ,Month-to-month,No,DSL,Mailed check,56.15,3,0.752,Segment Critique
+7722-CVFXN,One year,Yes,Fiber optic,Electronic check,105.2,54,0.05,Segment Safe
+8717-VCTXJ,One year,No internet service,No,Mailed check,19.55,42,0.549,Segment Instable
+7363-QTBIW,Month-to-month,No,Fiber optic,Electronic check,79.75,9,0.084,Segment Safe
+4159-NAAIX,Two year,No,Fiber optic,Bank transfer (automatic),97.45,63,0.623,Segment Instable
+0971-QIFJK,Two year,No internet service,No,Bank transfer (automatic),24.25,69,0.507,Segment Instable
+9397-TZSHA,Two year,No internet service,No,Credit card (automatic),24.6,69,0.088,Segment Sous Surveillance
+3391-JSQEW,Month-to-month,No,DSL,Mailed check,50.15,40,0.956,Segment Critique
+0343-QLUZP,Two year,No,DSL,Bank transfer (automatic),39.6,60,0.058,Segment Safe
+9763-PDTKK,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),94.4,4,0.054,Segment Safe
+2176-LVPNX,Two year,Yes,DSL,Mailed check,89.85,71,0.699,Segment Critique
+7627-JKIAZ,Month-to-month,No,Fiber optic,Credit card (automatic),78.95,37,0.338,Segment Sous Surveillance
+3312-UUMZW,Month-to-month,No,Fiber optic,Credit card (automatic),98.85,32,0.062,Segment Safe
+1271-UODNO,Two year,Yes,DSL,Credit card (automatic),53.85,39,0.251,Segment Sous Surveillance
+8461-EFQYM,One year,No internet service,No,Electronic check,24.25,38,0.913,Segment Critique
+6900-RBKER,Two year,No,Fiber optic,Credit card (automatic),89.45,52,0.856,Segment Critique
+6891-JPYFF,Month-to-month,No,Fiber optic,Credit card (automatic),105.25,48,0.904,Segment Critique
+1459-QNFQT,Two year,Yes,DSL,Bank transfer (automatic),59.5,70,0.673,Segment Instable
+1047-NNCBF,Month-to-month,No,Fiber optic,Credit card (automatic),70.55,20,0.731,Segment Critique
+3696-XRIEN,One year,Yes,DSL,Credit card (automatic),82.5,50,0.029,Segment Safe
+4081-DYXAV,One year,No,DSL,Credit card (automatic),44.85,19,0.057,Segment Safe
+0074-HDKDG,One year,No,DSL,Bank transfer (automatic),61.6,25,0.849,Segment Critique
+8791-GFXLZ,Month-to-month,No,DSL,Bank transfer (automatic),49.05,12,0.008,Segment Safe
+8111-SLLHI,Month-to-month,No,Fiber optic,Electronic check,105.65,39,0.558,Segment Instable
+0927-LCSMG,Month-to-month,No,Fiber optic,Mailed check,74.65,7,0.731,Segment Critique
+9330-DHBFL,One year,Yes,DSL,Mailed check,66.25,23,0.862,Segment Critique
+0098-BOWSO,Month-to-month,No internet service,No,Electronic check,19.4,27,0.036,Segment Safe
+3452-ABWRL,Month-to-month,No,Fiber optic,Credit card (automatic),86.05,47,0.055,Segment Safe
+5859-HZYLF,Two year,No internet service,No,Credit card (automatic),19.15,26,0.055,Segment Safe
+8257-RZAHR,Month-to-month,No,DSL,Bank transfer (automatic),64.7,14,0.063,Segment Safe
+5293-WXJAK,Month-to-month,Yes,Fiber optic,Bank transfer (automatic),104.05,11,0.413,Segment Instable
+3156-QLHBO,Month-to-month,No internet service,No,Mailed check,19.25,2,0.852,Segment Critique
+2208-NQBCT,Month-to-month,No,Fiber optic,Electronic check,81.95,26,0.047,Segment Safe
+1779-PWPMG,Two year,Yes,Fiber optic,Bank transfer (automatic),114.65,72,0.581,Segment Instable
+6621-NRZAK,Two year,No internet service,No,Credit card (automatic),20.0,63,0.023,Segment Safe
+0831-JNISG,Two year,No internet service,No,Mailed check,19.8,71,0.564,Segment Instable
+0774-IFUVM,Month-to-month,No,DSL,Bank transfer (automatic),65.15,11,0.922,Segment Critique
+3082-WQRVY,One year,No internet service,No,Mailed check,19.65,14,0.697,Segment Critique
+9553-DLCLU,Two year,Yes,DSL,Credit card (automatic),88.95,13,0.578,Segment Instable
+1641-BYBTK,Month-to-month,No internet service,No,Mailed check,20.2,6,0.212,Segment Sous Surveillance
+2460-NGXBJ,Month-to-month,No,Fiber optic,Credit card (automatic),75.2,11,0.038,Segment Safe
+2446-ZKVAF,Month-to-month,No,DSL,Credit card (automatic),56.8,18,0.023,Segment Safe
+0841-NULXI,Month-to-month,No,DSL,Electronic check,35.55,1,0.056,Segment Safe
+3522-CDKHF,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.5,32,0.095,Segment Sous Surveillance
+1430-SFQSA,One year,Yes,DSL,Mailed check,35.6,29,0.796,Segment Critique
+0411-EZJZE,Month-to-month,No,DSL,Electronic check,60.25,3,0.406,Segment Instable
+7851-WZEKY,Month-to-month,No,Fiber optic,Electronic check,95.15,2,0.724,Segment Critique
+8844-TONUD,Month-to-month,No,Fiber optic,Mailed check,96.65,13,0.622,Segment Instable
+8807-ARQET,Month-to-month,No,DSL,Electronic check,40.35,41,0.666,Segment Instable
+8992-CEUEN,Month-to-month,No internet service,No,Electronic check,18.85,1,0.706,Segment Critique
+4320-QMLLA,Month-to-month,No,DSL,Mailed check,54.85,7,0.703,Segment Critique
+8777-PVYGU,One year,No,DSL,Mailed check,64.3,52,0.032,Segment Safe
+8292-ITGYJ,Two year,No internet service,No,Bank transfer (automatic),24.65,45,0.069,Segment Safe
+6870-ZWMNX,Two year,Yes,DSL,Credit card (automatic),76.1,70,0.696,Segment Critique
+0621-CXBKL,Two year,No internet service,No,Mailed check,18.7,53,0.007,Segment Safe
+5268-DSMNQ,One year,No,Fiber optic,Credit card (automatic),97.95,62,0.616,Segment Instable
+5334-JLAXU,Month-to-month,No,Fiber optic,Credit card (automatic),94.1,60,0.777,Segment Critique
+4086-YQSNZ,Month-to-month,No,Fiber optic,Electronic check,80.4,3,0.749,Segment Critique
+6242-MBHPK,Month-to-month,No,Fiber optic,Electronic check,95.1,23,0.604,Segment Instable
+5868-CZJDR,Month-to-month,No,DSL,Mailed check,31.35,1,0.245,Segment Sous Surveillance
+9359-UGBTK,One year,Yes,DSL,Bank transfer (automatic),72.35,67,0.11,Segment Sous Surveillance
+0135-NMXAP,Month-to-month,No,Fiber optic,Bank transfer (automatic),89.75,12,0.7,Segment Critique
+4782-OSFXZ,Two year,Yes,DSL,Bank transfer (automatic),82.7,71,0.928,Segment Critique
+6479-OAUSD,One year,No internet service,No,Credit card (automatic),19.9,25,0.045,Segment Safe
+7129-ACFOG,Month-to-month,No,DSL,Electronic check,53.8,5,0.078,Segment Safe
+4189-NAKJS,One year,No,DSL,Credit card (automatic),51.55,26,0.014,Segment Safe
+5562-BETPV,One year,No internet service,No,Mailed check,19.65,1,0.068,Segment Safe
+1282-IHQAC,One year,No,DSL,Credit card (automatic),44.05,70,0.489,Segment Instable
+9127-FHJBZ,Two year,Yes,Fiber optic,Electronic check,114.0,72,0.176,Segment Sous Surveillance
+6270-OMFIW,One year,No,Fiber optic,Electronic check,94.4,60,0.774,Segment Critique
+1641-RQDAY,Month-to-month,No,Fiber optic,Electronic check,100.4,32,0.8,Segment Critique
+0107-WESLM,Month-to-month,No internet service,No,Electronic check,19.85,1,0.559,Segment Instable
+6994-ORCWG,One year,No,DSL,Mailed check,54.25,14,0.136,Segment Sous Surveillance
+1346-UFHAX,Month-to-month,No,Fiber optic,Credit card (automatic),80.0,13,0.94,Segment Critique
+3992-YWPKO,Month-to-month,Yes,Fiber optic,Credit card (automatic),109.9,6,0.205,Segment Sous Surveillance
+2933-XEUJM,Two year,No,DSL,Mailed check,79.2,46,0.164,Segment Sous Surveillance
+0125-LZQXK,Month-to-month,Yes,Fiber optic,Electronic check,101.35,15,0.868,Segment Critique
+5461-QKNTN,Month-to-month,Yes,Fiber optic,Electronic check,94.3,43,0.423,Segment Instable
+4835-YSJMR,Two year,Yes,DSL,Bank transfer (automatic),49.8,39,0.017,Segment Safe
+8399-YNDCH,Month-to-month,No,DSL,Bank transfer (automatic),60.05,21,0.561,Segment Instable
+3164-YAXFY,Month-to-month,No,DSL,Electronic check,53.75,57,0.689,Segment Critique
+0887-WBJVH,One year,Yes,Fiber optic,Electronic check,93.45,53,0.122,Segment Sous Surveillance
+4660-IRIBM,Month-to-month,No,Fiber optic,Mailed check,87.9,18,0.143,Segment Sous Surveillance
+5673-FSSMF,Month-to-month,No,DSL,Electronic check,60.15,1,0.026,Segment Safe
+7670-ZBPOQ,One year,Yes,DSL,Bank transfer (automatic),61.05,58,0.632,Segment Instable
+8089-UZWLX,Two year,No,Fiber optic,Bank transfer (automatic),104.05,71,0.779,Segment Critique
+0080-OROZO,One year,Yes,Fiber optic,Electronic check,99.25,35,0.926,Segment Critique
+3916-NRPAP,Month-to-month,No,Fiber optic,Credit card (automatic),85.7,3,0.116,Segment Sous Surveillance
+6807-SIWJI,One year,No,Fiber optic,Electronic check,104.85,38,0.728,Segment Critique
+8221-HVAYI,Two year,Yes,DSL,Credit card (automatic),69.15,35,0.684,Segment Instable
+1579-KLYDT,Month-to-month,No,Fiber optic,Electronic check,90.45,7,0.67,Segment Instable
+5232-NXPAY,Two year,Yes,DSL,Mailed check,74.45,47,0.342,Segment Sous Surveillance
+8967-SZQAS,Month-to-month,No,DSL,Electronic check,50.45,14,0.011,Segment Safe
+4468-KAZHE,Month-to-month,No,DSL,Electronic check,60.0,20,0.077,Segment Safe
+0455-ENTCR,Two year,Yes,DSL,Electronic check,85.25,66,0.162,Segment Sous Surveillance
+8944-AILEF,Month-to-month,No internet service,No,Credit card (automatic),19.45,15,0.908,Segment Critique
+5542-NKVRU,Two year,No internet service,No,Bank transfer (automatic),20.75,42,0.245,Segment Sous Surveillance
+7126-RBHSD,Month-to-month,No,Fiber optic,Electronic check,78.9,17,0.009,Segment Safe
+5370-IIVVL,One year,Yes,Fiber optic,Credit card (automatic),104.5,37,0.751,Segment Critique
+6789-HJBWG,Month-to-month,No,DSL,Electronic check,49.4,12,0.428,Segment Instable
+3927-NLNRY,One year,No,Fiber optic,Bank transfer (automatic),94.25,53,0.301,Segment Sous Surveillance
+9087-EYCPR,Two year,No internet service,No,Mailed check,25.0,60,0.202,Segment Sous Surveillance
+6791-YBNAK,Month-to-month,No,DSL,Credit card (automatic),25.55,18,0.042,Segment Safe
+6358-LYNGM,Month-to-month,No,Fiber optic,Electronic check,74.9,1,0.396,Segment Instable
+6077-BDPXA,Month-to-month,No,Fiber optic,Electronic check,70.15,3,0.368,Segment Sous Surveillance
+0013-MHZWF,Month-to-month,Yes,DSL,Credit card (automatic),69.4,9,0.536,Segment Instable
+5494-HECPR,Month-to-month,No,Fiber optic,Electronic check,80.25,1,0.809,Segment Critique
+8268-YDIXR,One year,No,Fiber optic,Electronic check,93.15,56,0.327,Segment Sous Surveillance
+9824-BEMCV,Month-to-month,No,Fiber optic,Electronic check,69.0,17,0.043,Segment Safe
+1373-ORVIZ,Month-to-month,Yes,DSL,Electronic check,66.35,11,0.815,Segment Critique
+4291-SHSBH,Month-to-month,No,Fiber optic,Electronic check,69.55,7,0.364,Segment Sous Surveillance
+6980-IMXXE,Two year,No internet service,No,Bank transfer (automatic),20.2,69,0.782,Segment Critique
+9866-QEVEE,Month-to-month,No,Fiber optic,Bank transfer (automatic),86.0,19,0.255,Segment Sous Surveillance
+9897-KXHCM,Month-to-month,No,Fiber optic,Electronic check,80.3,3,0.828,Segment Critique
+0040-HALCW,Two year,No internet service,No,Credit card (automatic),20.4,54,0.688,Segment Critique
+0784-GTUUK,One year,No internet service,No,Credit card (automatic),23.75,62,0.736,Segment Critique
+7979-CORPM,Month-to-month,No,Fiber optic,Credit card (automatic),90.55,24,0.08,Segment Safe
+2294-DMMUS,Month-to-month,No,DSL,Credit card (automatic),70.45,62,0.035,Segment Safe
+0872-JCPIB,Month-to-month,No,DSL,Bank transfer (automatic),65.75,17,0.607,Segment Instable
+3055-MJDSB,Month-to-month,No,DSL,Mailed check,24.6,9,0.96,Segment Critique
+9091-WTUUY,Two year,Yes,DSL,Mailed check,69.25,64,0.915,Segment Critique
+1618-CFHME,Month-to-month,No,Fiber optic,Electronic check,75.9,2,0.735,Segment Critique
+3165-HDOEW,Month-to-month,No,DSL,Mailed check,45.85,1,0.71,Segment Critique
+6581-NQCBA,Month-to-month,Yes,DSL,Electronic check,49.95,16,0.776,Segment Critique
+7115-IRDHS,Two year,No internet service,No,Bank transfer (automatic),24.65,72,0.053,Segment Safe
+8496-DMZUK,One year,No,Fiber optic,Bank transfer (automatic),90.4,30,0.043,Segment Safe
+2040-VZIKE,Month-to-month,No,Fiber optic,Mailed check,100.85,49,0.04,Segment Safe
+9068-VPWQQ,Two year,Yes,DSL,Credit card (automatic),75.35,61,0.809,Segment Critique
+0178-SZBHO,Month-to-month,No,Fiber optic,Electronic check,87.2,47,0.021,Segment Safe
+0384-RVBPI,Month-to-month,No,DSL,Credit card (automatic),64.4,20,0.419,Segment Instable
+1689-MRZQR,Month-to-month,No,Fiber optic,Electronic check,78.3,34,0.582,Segment Instable
+1299-AURJA,Two year,No internet service,No,Bank transfer (automatic),24.7,70,0.901,Segment Critique
+4525-VZCZG,One year,Yes,Fiber optic,Electronic check,105.85,54,0.358,Segment Sous Surveillance
+1543-LLLFT,One year,Yes,Fiber optic,Mailed check,98.3,61,0.514,Segment Instable
+5835-BEQEU,Month-to-month,No,Fiber optic,Electronic check,76.95,3,0.76,Segment Critique
+2788-CJQAQ,One year,No internet service,No,Mailed check,19.45,13,0.029,Segment Safe
+5565-FILXA,Month-to-month,No,Fiber optic,Electronic check,96.15,16,0.116,Segment Sous Surveillance
+0319-QZTCO,Month-to-month,No,DSL,Credit card (automatic),58.7,3,0.02,Segment Safe
+2120-SMPEX,Month-to-month,No internet service,No,Mailed check,20.15,25,0.095,Segment Sous Surveillance
+0096-FCPUF,Month-to-month,No,DSL,Mailed check,64.5,30,0.271,Segment Sous Surveillance
+0668-OGMHD,Month-to-month,No,DSL,Electronic check,28.5,21,0.203,Segment Sous Surveillance
+5552-ZNFSJ,Month-to-month,No,DSL,Electronic check,45.3,1,0.568,Segment Instable
+2223-KAGMX,Month-to-month,No internet service,No,Bank transfer (automatic),19.4,15,0.014,Segment Safe
+6507-ZJSUR,Month-to-month,No,Fiber optic,Electronic check,90.45,23,0.039,Segment Safe
+9408-HRXRK,Month-to-month,No,Fiber optic,Electronic check,105.15,45,0.572,Segment Instable
+5593-SUAOO,One year,No,Fiber optic,Bank transfer (automatic),83.15,24,0.37,Segment Instable
+7321-PKUYW,Month-to-month,Yes,Fiber optic,Electronic check,90.15,11,0.066,Segment Safe
+2833-SLKDQ,Month-to-month,No,DSL,Mailed check,45.05,1,0.77,Segment Critique
+6766-HFKLA,Two year,Yes,Fiber optic,Bank transfer (automatic),103.2,56,0.777,Segment Critique
+7595-EUIVN,Month-to-month,No,Fiber optic,Electronic check,75.8,1,0.484,Segment Instable
+7617-EYGLW,Month-to-month,No internet service,No,Electronic check,19.45,1,0.928,Segment Critique
+2026-TGDHM,Month-to-month,No,Fiber optic,Electronic check,79.3,7,0.072,Segment Safe
+9220-ZNKJI,Two year,Yes,Fiber optic,Credit card (automatic),88.8,55,0.593,Segment Instable
+4030-VPZBD,Month-to-month,Yes,DSL,Electronic check,30.9,2,0.513,Segment Instable
+2226-ICFDO,Two year,Yes,DSL,Credit card (automatic),85.9,72,0.052,Segment Safe
+0723-VSOBE,One year,No,DSL,Electronic check,34.2,45,0.83,Segment Critique
+5529-GIBVH,Two year,No internet service,No,Mailed check,20.15,47,0.17,Segment Sous Surveillance
+4187-CINZD,One year,No,Fiber optic,Credit card (automatic),95.25,46,0.957,Segment Critique
+9992-UJOEL,Month-to-month,No,DSL,Mailed check,50.3,2,0.03,Segment Safe
+4741-WWJQZ,Month-to-month,Yes,Fiber optic,Electronic check,80.15,2,0.109,Segment Sous Surveillance
+6625-UTXEW,Month-to-month,No,DSL,Electronic check,51.25,12,0.068,Segment Safe
+6818-WOBHJ,Month-to-month,No,Fiber optic,Bank transfer (automatic),89.6,68,0.216,Segment Sous Surveillance
+6244-BESBM,Two year,Yes,Fiber optic,Credit card (automatic),95.2,69,0.298,Segment Sous Surveillance
+1004-NOZNR,One year,No,Fiber optic,Credit card (automatic),94.8,56,0.033,Segment Safe
+1251-STYSZ,Month-to-month,No,Fiber optic,Electronic check,80.25,4,0.418,Segment Instable
+2612-PHGOX,Two year,Yes,DSL,Bank transfer (automatic),76.1,64,0.756,Segment Critique
+2408-TZMJL,One year,No,Fiber optic,Electronic check,110.15,59,0.104,Segment Sous Surveillance
+8480-PPONV,Two year,Yes,Fiber optic,Bank transfer (automatic),115.55,62,0.799,Segment Critique
+8780-IHCRN,Two year,No internet service,No,Credit card (automatic),24.65,63,0.797,Segment Critique
+4598-ZADCK,One year,Yes,DSL,Electronic check,53.6,53,0.672,Segment Instable
+1257-SXUXQ,Month-to-month,No internet service,No,Mailed check,19.45,5,0.026,Segment Safe
+9681-KYGYB,Month-to-month,No,Fiber optic,Electronic check,88.2,49,0.008,Segment Safe
+7182-OVLBJ,Two year,No,Fiber optic,Bank transfer (automatic),101.15,62,0.843,Segment Critique
+5095-ETBRJ,Two year,Yes,DSL,Mailed check,56.8,55,0.578,Segment Instable
+7005-CYUIL,Two year,Yes,Fiber optic,Electronic check,99.4,71,0.299,Segment Sous Surveillance
+4821-WQOYN,Two year,No internet service,No,Credit card (automatic),20.1,72,0.609,Segment Instable
+4730-AWNAU,One year,Yes,DSL,Credit card (automatic),60.7,36,0.186,Segment Sous Surveillance
+3452-FLHYD,One year,No internet service,No,Bank transfer (automatic),20.95,25,0.311,Segment Sous Surveillance
+2388-LAESQ,Two year,Yes,Fiber optic,Bank transfer (automatic),114.85,72,0.483,Segment Instable
+9531-NSBMR,One year,No internet service,No,Bank transfer (automatic),19.25,36,0.048,Segment Safe
+6260-ONULR,Month-to-month,No,DSL,Mailed check,62.8,1,0.042,Segment Safe
+4389-UEFCZ,Two year,No,Fiber optic,Electronic check,105.5,72,0.258,Segment Sous Surveillance
+8711-LOBKY,Two year,No internet service,No,Mailed check,19.85,59,0.566,Segment Instable
+9134-CEQMF,Month-to-month,No,Fiber optic,Electronic check,89.5,7,0.884,Segment Critique
+8985-OOPOS,One year,Yes,DSL,Credit card (automatic),74.1,1,0.81,Segment Critique
+8800-ZKRFW,Month-to-month,Yes,Fiber optic,Electronic check,107.5,30,0.102,Segment Sous Surveillance
+2616-FLVQC,Two year,No internet service,No,Mailed check,19.55,64,0.837,Segment Critique
+9968-FFVVH,One year,Yes,DSL,Bank transfer (automatic),68.8,63,0.934,Segment Critique
+3108-PCCGG,Two year,No,DSL,Credit card (automatic),84.45,72,0.02,Segment Safe
+7993-PYKOF,Month-to-month,No,Fiber optic,Electronic check,75.0,8,0.619,Segment Instable
+8390-FESFV,Two year,Yes,DSL,Bank transfer (automatic),84.5,62,0.791,Segment Critique
+3022-BEXHZ,Two year,Yes,Fiber optic,Bank transfer (automatic),111.2,67,0.302,Segment Sous Surveillance
+5027-XWQHA,Month-to-month,No,DSL,Electronic check,44.75,6,0.61,Segment Instable
+6248-TKCQV,Two year,Yes,DSL,Bank transfer (automatic),80.6,70,0.499,Segment Instable
+6729-GDNGC,Month-to-month,No,Fiber optic,Bank transfer (automatic),80.7,20,0.15,Segment Sous Surveillance
+6198-ZFIOJ,Month-to-month,No,Fiber optic,Electronic check,75.6,5,0.031,Segment Safe
+5989-OMNJE,One year,No,DSL,Electronic check,57.6,24,0.862,Segment Critique
+4566-QVRRW,Month-to-month,No,DSL,Electronic check,44.05,11,0.686,Segment Instable
+1291-CUOCY,Two year,Yes,Fiber optic,Credit card (automatic),110.6,72,0.815,Segment Critique
+9795-SHUHB,Two year,Yes,DSL,Credit card (automatic),58.2,66,0.053,Segment Safe
+3230-IUALN,Two year,Yes,DSL,Mailed check,81.0,45,0.107,Segment Sous Surveillance
+0042-RLHYP,Two year,No internet service,No,Bank transfer (automatic),19.7,69,0.044,Segment Safe
+8519-IMDHU,Month-to-month,No,Fiber optic,Bank transfer (automatic),85.6,15,0.491,Segment Instable
+4945-RVMTE,Month-to-month,No,DSL,Bank transfer (automatic),59.55,28,0.268,Segment Sous Surveillance
+0201-OAMXR,One year,Yes,Fiber optic,Credit card (automatic),115.55,70,0.106,Segment Sous Surveillance
+1866-NXPSP,One year,Yes,DSL,Mailed check,75.55,36,0.653,Segment Instable
+3372-KWFBM,Month-to-month,No,Fiber optic,Electronic check,86.6,16,0.044,Segment Safe
+7831-QGOXH,Month-to-month,No,Fiber optic,Electronic check,85.2,18,0.555,Segment Instable
+6393-WRYZE,Month-to-month,No,Fiber optic,Electronic check,97.65,34,0.033,Segment Safe
+3941-XTSKM,One year,No,DSL,Credit card (automatic),45.1,42,0.403,Segment Instable
+1661-CZBAU,One year,Yes,DSL,Bank transfer (automatic),70.95,48,0.411,Segment Instable
+6599-RCLCJ,Month-to-month,Yes,Fiber optic,Electronic check,109.55,47,0.454,Segment Instable
+9831-BPFRI,One year,Yes,Fiber optic,Electronic check,89.55,39,0.634,Segment Instable
+5158-RIVOP,Two year,No internet service,No,Credit card (automatic),20.9,11,0.218,Segment Sous Surveillance
+9788-YTFGE,Month-to-month,No internet service,No,Mailed check,19.95,7,0.113,Segment Sous Surveillance
+9277-JOOMO,Month-to-month,No internet service,No,Mailed check,24.6,3,0.264,Segment Sous Surveillance
+1907-YLNYW,Month-to-month,No,DSL,Electronic check,66.7,8,0.434,Segment Instable
+1725-MIMXW,Month-to-month,No internet service,No,Mailed check,19.45,1,0.045,Segment Safe
+8947-YRTDV,One year,No,Fiber optic,Mailed check,94.8,32,0.737,Segment Critique
+3161-ONRWK,One year,Yes,DSL,Bank transfer (automatic),65.85,60,0.03,Segment Safe
+0114-RSRRW,Month-to-month,No internet service,No,Bank transfer (automatic),19.95,10,0.628,Segment Instable
+4565-NLZBV,Two year,No internet service,No,Bank transfer (automatic),24.65,71,0.338,Segment Sous Surveillance
+0031-PVLZI,Month-to-month,No internet service,No,Mailed check,20.35,4,0.166,Segment Sous Surveillance
+7206-GZCDC,Month-to-month,No,Fiber optic,Electronic check,69.25,1,0.225,Segment Sous Surveillance
+6682-VCIXC,One year,Yes,DSL,Bank transfer (automatic),51.25,43,0.402,Segment Instable
+4791-QRGMF,One year,No,Fiber optic,Bank transfer (automatic),99.5,59,0.85,Segment Critique
+6475-VHUIZ,Month-to-month,Yes,DSL,Electronic check,54.25,23,0.007,Segment Safe
+3910-MRQOY,Two year,No internet service,No,Bank transfer (automatic),19.4,72,0.303,Segment Sous Surveillance
+0661-WCQNQ,One year,Yes,DSL,Credit card (automatic),56.25,22,0.395,Segment Instable
+7537-RBWEA,Month-to-month,No,DSL,Mailed check,25.15,1,0.55,Segment Instable
+4656-CAURT,Two year,No internet service,No,Bank transfer (automatic),23.95,69,0.337,Segment Sous Surveillance
+0121-SNYRK,One year,Yes,DSL,Mailed check,35.4,50,0.785,Segment Critique
+1768-ZAIFU,Month-to-month,No,DSL,Electronic check,25.2,1,0.754,Segment Critique
+4671-LXRDQ,Month-to-month,No,DSL,Mailed check,45.0,2,0.057,Segment Safe
+3733-LSYCE,Month-to-month,No,Fiber optic,Bank transfer (automatic),75.35,15,0.06,Segment Safe
+6265-FRMTQ,Two year,No internet service,No,Bank transfer (automatic),20.4,31,0.309,Segment Sous Surveillance
+1934-SJVJK,Month-to-month,No internet service,No,Mailed check,20.15,1,0.871,Segment Critique
+3838-OZURD,Month-to-month,No,Fiber optic,Credit card (automatic),105.0,66,0.702,Segment Critique
+1371-DWPAZ,Two year,Yes,DSL,Credit card (automatic),56.05,0,0.05,Segment Safe
+9269-CQOOL,Month-to-month,No,DSL,Credit card (automatic),54.7,3,0.018,Segment Safe
+2017-CCBLH,Two year,No internet service,No,Mailed check,20.0,8,0.1,Segment Sous Surveillance
+7690-KPNCU,One year,No,DSL,Credit card (automatic),73.05,64,0.189,Segment Sous Surveillance
+0536-BGFMZ,Month-to-month,No internet service,No,Mailed check,20.5,28,0.009,Segment Safe
+2293-IJWPS,One year,No,Fiber optic,Credit card (automatic),100.75,57,0.038,Segment Safe
+2845-HSJCY,Month-to-month,No,Fiber optic,Electronic check,87.25,14,0.813,Segment Critique
+5469-NUJUR,Two year,No internet service,No,Mailed check,19.95,19,0.654,Segment Instable
+1184-PJVDB,Month-to-month,No,Fiber optic,Electronic check,79.95,10,0.018,Segment Safe
+2625-TRCZQ,Month-to-month,No,DSL,Electronic check,49.65,51,0.689,Segment Critique
+4102-HLENU,Two year,No,DSL,Mailed check,65.65,67,0.059,Segment Safe
+7266-GSSJX,Month-to-month,No internet service,No,Electronic check,20.45,11,0.287,Segment Sous Surveillance
+7722-VJRQD,Two year,Yes,DSL,Bank transfer (automatic),60.95,72,0.698,Segment Critique
+7073-QETQY,One year,No internet service,No,Electronic check,20.35,66,0.181,Segment Sous Surveillance
+9415-DPEWS,Month-to-month,Yes,Fiber optic,Electronic check,88.35,18,0.481,Segment Instable
+5624-RYAMH,Month-to-month,No internet service,No,Electronic check,19.5,9,0.904,Segment Critique
+0196-JTUQI,Month-to-month,No,Fiber optic,Credit card (automatic),75.2,9,0.212,Segment Sous Surveillance
+7130-YXBRO,Month-to-month,No,Fiber optic,Bank transfer (automatic),111.45,48,0.557,Segment Instable
+9272-LSVYH,Month-to-month,No,Fiber optic,Mailed check,70.15,10,0.039,Segment Safe
+7943-RQCHR,Month-to-month,No,Fiber optic,Electronic check,94.75,9,0.432,Segment Instable
+3793-MMFUH,Month-to-month,No,Fiber optic,Electronic check,95.05,13,0.236,Segment Sous Surveillance
+3249-ZPQRG,Month-to-month,No,Fiber optic,Electronic check,78.45,4,0.36,Segment Sous Surveillance
+2568-BRGYX,Month-to-month,No,Fiber optic,Electronic check,70.2,4,0.377,Segment Instable
+3084-DOWLE,Two year,Yes,DSL,Bank transfer (automatic),92.0,72,0.569,Segment Instable
+1084-MNSMJ,Two year,Yes,DSL,Credit card (automatic),85.5,51,0.496,Segment Instable
+7721-JXEAW,Month-to-month,No,DSL,Bank transfer (automatic),41.05,59,0.469,Segment Instable
+7249-WBIYX,Month-to-month,No,Fiber optic,Electronic check,85.6,10,0.919,Segment Critique
+4238-HFHSN,Month-to-month,No,Fiber optic,Electronic check,82.15,61,0.023,Segment Safe
+6250-CGGUN,One year,Yes,Fiber optic,Electronic check,84.4,54,0.683,Segment Instable
+5478-JJVZK,Month-to-month,No,DSL,Mailed check,60.9,33,0.624,Segment Instable
+7596-IIWYC,Two year,No internet service,No,Bank transfer (automatic),20.25,27,0.074,Segment Safe
+6567-HOOPW,Month-to-month,No,Fiber optic,Electronic check,79.2,1,0.476,Segment Instable
+9793-WECQC,Month-to-month,No,Fiber optic,Mailed check,95.3,23,0.386,Segment Instable
+4291-HPAXL,Month-to-month,No internet service,No,Mailed check,19.85,1,0.797,Segment Critique
+8999-YPYBV,Two year,Yes,DSL,Mailed check,84.35,45,0.598,Segment Instable
+1839-FBNFR,Two year,No internet service,No,Bank transfer (automatic),19.85,39,0.034,Segment Safe
+3164-AALRN,One year,No,DSL,Mailed check,70.0,5,0.167,Segment Sous Surveillance
+3071-MVJCD,Two year,Yes,DSL,Bank transfer (automatic),82.3,72,0.729,Segment Critique
+1697-BCSHV,Month-to-month,No,DSL,Bank transfer (automatic),66.8,58,0.641,Segment Instable
+0562-KBDVM,Two year,Yes,DSL,Bank transfer (automatic),44.6,70,0.841,Segment Critique
+1131-SUEKT,One year,Yes,Fiber optic,Bank transfer (automatic),98.45,61,0.059,Segment Safe
+3717-OEAUQ,Month-to-month,No,Fiber optic,Mailed check,70.7,2,0.382,Segment Instable
+4538-WNTMJ,One year,No internet service,No,Mailed check,24.95,46,0.542,Segment Instable
+3334-CTHOL,Month-to-month,No,DSL,Bank transfer (automatic),49.95,1,0.055,Segment Safe
+4704-ERYFC,Month-to-month,No,Fiber optic,Electronic check,69.25,22,0.455,Segment Instable
+9432-RUVSL,Two year,Yes,Fiber optic,Credit card (automatic),102.5,48,0.313,Segment Sous Surveillance
+8060-HIWJJ,Two year,Yes,DSL,Credit card (automatic),86.55,64,0.721,Segment Critique
+7684-XSZIY,Two year,No internet service,No,Bank transfer (automatic),24.3,72,0.187,Segment Sous Surveillance
+9089-UOWJG,Month-to-month,No,DSL,Credit card (automatic),58.35,12,0.676,Segment Instable
+8621-MNIHH,Month-to-month,No,Fiber optic,Electronic check,94.25,34,0.093,Segment Sous Surveillance
+8039-ACLPL,Two year,No,DSL,Credit card (automatic),68.75,72,0.712,Segment Critique
+9885-AIBVB,Month-to-month,No,Fiber optic,Electronic check,85.8,29,0.634,Segment Instable
+1934-MKPXS,One year,No internet service,No,Credit card (automatic),20.1,33,0.075,Segment Safe
+2592-YKDIF,Month-to-month,No internet service,No,Mailed check,20.35,1,0.937,Segment Critique
+2272-JKMSI,One year,Yes,Fiber optic,Electronic check,110.8,62,0.039,Segment Safe
+0471-LVHGK,One year,No,DSL,Electronic check,73.0,41,0.633,Segment Instable
+9518-RWHZL,One year,No,Fiber optic,Credit card (automatic),100.05,64,0.788,Segment Critique
+8714-CTZJW,Month-to-month,No,Fiber optic,Credit card (automatic),82.85,4,0.338,Segment Sous Surveillance
+3569-EDBPQ,Month-to-month,Yes,Fiber optic,Electronic check,84.35,24,0.05,Segment Safe
+3131-NWVFJ,One year,No internet service,No,Mailed check,19.55,14,0.875,Segment Critique
+7521-YXVZY,Month-to-month,No internet service,No,Mailed check,19.95,3,0.061,Segment Safe
+5419-CONWX,Month-to-month,No,Fiber optic,Credit card (automatic),99.8,4,0.044,Segment Safe
+6240-EURKS,Month-to-month,No,DSL,Electronic check,35.0,18,0.041,Segment Safe
+2373-NTKOD,Month-to-month,No,DSL,Electronic check,66.25,8,0.056,Segment Safe
+1970-KKFWL,Two year,No internet service,No,Bank transfer (automatic),23.3,35,0.086,Segment Safe
+6960-HVYXR,Month-to-month,No,Fiber optic,Electronic check,76.0,1,0.039,Segment Safe
+9337-SRRNI,Two year,No internet service,No,Credit card (automatic),25.3,66,0.282,Segment Sous Surveillance
+0895-UADGO,Two year,Yes,DSL,Mailed check,44.55,8,0.068,Segment Safe
+5678-VFNEQ,One year,No,Fiber optic,Credit card (automatic),104.1,71,0.015,Segment Safe

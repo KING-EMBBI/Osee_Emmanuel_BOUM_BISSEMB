@@ -1,0 +1,35 @@
+Feature,Importance
+Contract_Two year,0.3628
+Contract_One year,0.2247
+InternetService_Fiber optic,0.1117
+InternetService_No,0.0439
+StreamingMovies_Yes,0.0403
+PaymentMethod_Electronic check,0.0296
+tenure,0.0228
+PaperlessBilling_Yes,0.0191
+OnlineSecurity_Yes,0.0178
+TotalCharges,0.0111
+TechSupport_Yes,0.011
+MultipleLines_Yes,0.0103
+StreamingTV_Yes,0.0098
+OnlineBackup_Yes,0.0095
+MonthlyCharges,0.0092
+Dependents_Yes,0.0092
+tenure_groups_24-48_Months,0.0089
+PhoneService_Yes,0.0086
+PaymentMethod_Mailed check,0.0071
+total_services,0.0069
+SeniorCitizen_1,0.006
+DeviceProtection_Yes,0.0052
+gender_Male,0.0052
+PaymentMethod_Credit card (automatic),0.0049
+Partner_Yes,0.0044
+MultipleLines_No phone service,0.0
+DeviceProtection_No internet service,0.0
+OnlineBackup_No internet service,0.0
+OnlineSecurity_No internet service,0.0
+TechSupport_No internet service,0.0
+StreamingMovies_No internet service,0.0
+StreamingTV_No internet service,0.0
+tenure_groups_12-24_Months,0.0
+tenure_groups_48+_Months,0.0

@@ -1,0 +1,5 @@
+Metric,Value
+Vrais Négatifs (Sains),756
+Faux Positifs (Fausses Alertes),279
+Faux Négatifs (Manqués),71
+Vrais Positifs (Churns Détectés),303
