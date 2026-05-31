@@ -20,7 +20,9 @@ Elle intègre votre identité de marque visuelle (le code couleur `#2e7d32` / `#
 
 L'application utilise un *Design System* sur-mesure combinant un mode sombre premium (`#0B132B`) et des accents corporatifs (`#2e7d32`).
 
-![Dashboard Executive Overview](https://via.placeholder.com/1000x500/0B132B/D4AF37?text=TELECOM+CHURN+PREDICTIVE+PLATFORM+SCREENSHOT)
+<img width="1365" height="633" alt="Capture d’écran 2026-05-30 220120" src="https://github.com/user-attachments/assets/9afeb2f2-0b4c-45fc-9467-d4c136257f94" />
+
+
 
 ---
 
